@@ -129,7 +129,7 @@
         "firstFlight": "2005-11-03",
         "deliveryDate": "2018-06-15",
         "exitDate": null,
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/26160/sx-dng-aegean-airlines-airbus-a321-231_PlanespottersNet_1414622_4b4fb32e35_o.jpg"
     },
     {
         "msn": "A320-2732",
@@ -140,7 +140,7 @@
         "firstFlight": "2006-03-14",
         "deliveryDate": "2011-04-09",
         "exitDate": "2011-10-29",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/22509/lz-mda-aegean-airlines-airbus-a320-232_PlanespottersNet_225653_49a21b7607_o.jpg"
     },
     {
         "msn": "A320-2828",
@@ -151,7 +151,7 @@
         "firstFlight": "2006-06-16",
         "deliveryDate": "2013-11-28",
         "exitDate": "2022-08-15",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/07290/sx-dgn-aegean-airlines-airbus-a320-232_PlanespottersNet_1236055_a92f45c521_o.jpg"
     },
     {
         "msn": "A320-3033",
@@ -162,7 +162,7 @@
         "firstFlight": "2007-01-26",
         "deliveryDate": "2007-02-21",
         "exitDate": null,
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/31665/sx-dvg-aegean-airlines-airbus-a320-232_PlanespottersNet_1391767_b4e86fa48a_o.jpg"
     },
     {
         "msn": "A320-3066",
@@ -173,7 +173,7 @@
         "firstFlight": "2007-02-23",
         "deliveryDate": "2007-03-19",
         "exitDate": null,
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/28881/sx-dvh-aegean-airlines-airbus-a320-232_PlanespottersNet_1342124_b92f4085b0_o.jpg"
     },
     {
         "msn": "A320-3074",
@@ -184,7 +184,7 @@
         "firstFlight": "2007-02-28",
         "deliveryDate": "2007-03-20",
         "exitDate": null,
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/18777/sx-dvi-aegean-airlines-airbus-a320-232_PlanespottersNet_1354355_5b5c5ad4f1_o.jpg"
     },
     {
         "msn": "A320-3162",
@@ -195,7 +195,7 @@
         "firstFlight": "2007-06-06",
         "deliveryDate": "2011-05",
         "exitDate": "2020-05-24",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/48965/sx-dgi-aegean-airlines-airbus-a320-232_PlanespottersNet_1031460_a104ae1d09_o.jpg"
     },
     {
         "msn": "A320-3302",
@@ -205,8 +205,8 @@
         "model": "A321-200",
         "firstFlight": "2007-11-02",
         "deliveryDate": "2014-03-13",
-        "exitDate": null,
-        "photoUrl": ""
+        "exitDate": "2022-09-04",
+        "photoUrl": "https://cdn.plnspttrs.net/12042/sx-dgp-aegean-airlines-airbus-a321-231_PlanespottersNet_1215879_219444e167_o.jpg"
     },
     {
         "msn": "A320-3316",
@@ -217,7 +217,7 @@
         "firstFlight": "2007-11-05",
         "deliveryDate": "2013-04",
         "exitDate": "2022-06-10",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/19998/sx-dgj-aegean-airlines-airbus-a320-232_PlanespottersNet_1315061_c4561ce12b_o.jpg"
     },
     {
         "msn": "A320-3322",
@@ -227,8 +227,8 @@
         "model": "A321-200",
         "firstFlight": "2007-11-19",
         "deliveryDate": "2014-04-11",
-        "exitDate": null,
-        "photoUrl": ""
+        "exitDate": "2022-10-06",
+        "photoUrl": "https://cdn.plnspttrs.net/33551/sx-dgq-aegean-airlines-airbus-a321-231_PlanespottersNet_1336174_8428f6047e_o.jpg"
     },
     {
         "msn": "A320-3365",
@@ -239,7 +239,7 @@
         "firstFlight": "2007-12-13",
         "deliveryDate": "2008-01-15",
         "exitDate": null,
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/48210/sx-dvj-aegean-airlines-airbus-a320-232_PlanespottersNet_1305536_c76f86ed8f_o.jpg"
     },
     {
         "msn": "A320-3392",
@@ -250,7 +250,29 @@
         "firstFlight": "2008-01-21",
         "deliveryDate": "2008-02-12",
         "exitDate": null,
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/33568/sx-dvk-aegean-airlines-airbus-a320-232_PlanespottersNet_1368449_5c33148bb3_o.jpg"
+    },
+    {
+        "msn": "A320-3423",
+        "registration": "SX-DVL",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2008-02-18",
+        "deliveryDate": "2008-03-13",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/16226/sx-dvl-aegean-airlines-airbus-a320-232_PlanespottersNet_1330322_ad29e042e2_o.jpg"
+    },
+    {
+        "msn": "A320-3439",
+        "registration": "SX-DVM",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2008-02-25",
+        "deliveryDate": "2008-03-19",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/20667/sx-dvm-aegean-airlines-airbus-a320-232_PlanespottersNet_1397816_5750a90cec_o.jpg"
     },
     {
         "msn": "A320-3462",
@@ -261,7 +283,18 @@
         "firstFlight": "2008-04-07",
         "deliveryDate": "2008-04-17",
         "exitDate": "2022-02-07",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/46799/sx-dvo-aegean-airlines-airbus-a321-231_PlanespottersNet_1102004_d4a7ab2a6a_o.jpg"
+    },
+    {
+        "msn": "A320-3478",
+        "registration": "SX-DVN",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2008-04-03",
+        "deliveryDate": "2008-04-22",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/14431/sx-dvn-aegean-airlines-airbus-a320-232_PlanespottersNet_1279304_c541f33f4a_o.jpg"
     },
     {
         "msn": "A320-3484",
@@ -272,7 +305,7 @@
         "firstFlight": "2008-04-15",
         "deliveryDate": "2014-05-30",
         "exitDate": "2020-12-16",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/02016/sx-dgr-aegean-airlines-airbus-a320-232_PlanespottersNet_1126787_7b01ea4f5f_o.jpg"
     },
     {
         "msn": "A320-3519",
@@ -283,7 +316,18 @@
         "firstFlight": "2008-05-29",
         "deliveryDate": "2014-06-27",
         "exitDate": "2020-12-19",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/04898/sx-dgo-aegean-airlines-airbus-a320-232_PlanespottersNet_1261189_960fe64dd9_o.jpg"
+    },
+    {
+        "msn": "A320-3526",
+        "registration": "SX-DVQ",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2008-06-04",
+        "deliveryDate": "2008-06-24",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/43197/sx-dvq-aegean-airlines-airbus-a320-232_PlanespottersNet_1373011_bd817c8a90_o.jpg"
     },
     {
         "msn": "A320-3527",
@@ -294,7 +338,51 @@
         "firstFlight": "2008-05-08",
         "deliveryDate": "2008-05-23",
         "exitDate": "2022-03-03",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/46493/sx-dvp-aegean-airlines-airbus-a321-231_PlanespottersNet_1235534_5f3323e891_o.jpg"
+    },
+    {
+        "msn": "A320-3546",
+        "registration": "SX-DNH",
+        "manufacturer": "Airbus",
+        "type": "A321-231",
+        "model": "A321-200",
+        "firstFlight": "2008-05-28",
+        "deliveryDate": "2018-05-25",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/23067/sx-dnh-aegean-airlines-airbus-a321-231_PlanespottersNet_1306922_a66c7bc507_o.jpg"
+    },
+    {
+        "msn": "A320-3709",
+        "registration": "SX-DVS",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2008-11-18",
+        "deliveryDate": "2008-12-04",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/34786/sx-dvs-aegean-airlines-airbus-a320-232_PlanespottersNet_1368028_4c2f59e172_o.jpg"
+    },
+    {
+        "msn": "A320-3714",
+        "registration": "SX-DVR",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2008-11-13",
+        "deliveryDate": "2008-11-21",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/29617/sx-dvr-aegean-airlines-airbus-a320-232_PlanespottersNet_1373743_170327745a_o.jpg"
+    },
+    {
+        "msn": "A320-3745",
+        "registration": "SX-DVT",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2008-12-17",
+        "deliveryDate": "2009-01-16",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/03806/sx-dvt-aegean-airlines-airbus-a320-232_PlanespottersNet_1277375_50b576caa0_o.jpg"
     },
     {
         "msn": "A320-3748",
@@ -305,7 +393,7 @@
         "firstFlight": "2009-03-30",
         "deliveryDate": "2013-04-27",
         "exitDate": "2021-02-06",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/47173/sx-dgk-aegean-airlines-airbus-a320-232_PlanespottersNet_1114356_786246778d_o.jpg"
     },
     {
         "msn": "A320-3753",
@@ -316,7 +404,29 @@
         "firstFlight": "2009-01-09",
         "deliveryDate": "2009-01-27",
         "exitDate": "2020-11-04",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/12234/sx-dvu-aegean-airlines-airbus-a320-232_PlanespottersNet_1031979_c724f7b24c_o.jpg"
+    },
+    {
+        "msn": "A320-3773",
+        "registration": "SX-DVV",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2009-01-19",
+        "deliveryDate": "2009-02-04",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/42819/sx-dvv-aegean-airlines-airbus-a320-232_PlanespottersNet_1406747_e21f00d8b4_o.jpg"
+    },
+    {
+        "msn": "A320-3785",
+        "registration": "SX-DVW",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2009-01-26",
+        "deliveryDate": "2009-02-11",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/33425/sx-dvw-aegean-airlines-airbus-a320-232_PlanespottersNet_1234208_f8782ece07_o.jpg"
     },
     {
         "msn": "A320-3812",
@@ -327,6 +437,435 @@
         "firstFlight": "2009-07-07",
         "deliveryDate": "2013-05-02",
         "exitDate": "2021-02-11",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/32242/sx-dgl-aegean-airlines-airbus-a320-232_PlanespottersNet_1019137_b6addbec5e_o.jpg"
+    },
+    {
+        "msn": "A320-3820",
+        "registration": "SX-DVZ",
+        "manufacturer": "Airbus",
+        "type": "A321-231",
+        "model": "A321-200",
+        "firstFlight": "2009-02-24",
+        "deliveryDate": "2009-03-03",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/29592/sx-dvz-aegean-airlines-airbus-a321-231_PlanespottersNet_1334328_1a095db014_o.jpg"
+    },
+    {
+        "msn": "A320-3829",
+        "registration": "SX-DVX",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2009-03-02",
+        "deliveryDate": "2009-03-18",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/43044/sx-dvx-aegean-airlines-airbus-a320-232_PlanespottersNet_1308414_f2a36f5f10_o.jpg"
+    },
+    {
+        "msn": "A320-3850",
+        "registration": "SX-DVY",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2009-03-17",
+        "deliveryDate": "2009-04-14",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/34447/sx-dvy-aegean-airlines-airbus-a320-232_PlanespottersNet_1362510_54424cd72c_o.jpg"
+    },
+    {
+        "msn": "A320-3878",
+        "registration": "SX-DGA",
+        "manufacturer": "Airbus",
+        "type": "A321-231",
+        "model": "A321-200",
+        "firstFlight": "2009-04-15",
+        "deliveryDate": "2009-04-24",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/36545/sx-dga-aegean-airlines-airbus-a321-231_PlanespottersNet_1351442_d9930b784c_o.jpg"
+    },
+    {
+        "msn": "A320-3895",
+        "registration": "SX-OAF",
+        "manufacturer": "Airbus",
+        "type": "A319-112",
+        "model": "A319-100",
+        "firstFlight": "2009-04-27",
+        "deliveryDate": "2014-05",
+        "exitDate": "2014-12-27",
+        "photoUrl": "https://cdn.plnspttrs.net/14952/sx-oaf-olympic-air-airbus-a319-112_PlanespottersNet_551995_ab3648ad5f_o.jpg"
+    },
+    {
+        "msn": "A320-3990",
+        "registration": "SX-DGE",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2009-08-31",
+        "deliveryDate": "2011-05-06",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/11825/sx-dge-aegean-airlines-airbus-a320-232_PlanespottersNet_1296246_c2c3ebc13c_o.jpg"
+    },
+    {
+        "msn": "A320-4065",
+        "registration": "SX-DGD",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2009-10-12",
+        "deliveryDate": "2011-05-06",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/06084/sx-dgd-aegean-airlines-airbus-a320-232_PlanespottersNet_1317234_2cfd51e502_o.jpg"
+    },
+    {
+        "msn": "A320-4094",
+        "registration": "SX-DGC",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2009-11-04",
+        "deliveryDate": "2011-05-06",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/34402/sx-dgc-aegean-airlines-airbus-a320-232_PlanespottersNet_1389769_9d05e02ce2_o.jpg"
+    },
+    {
+        "msn": "A320-4165",
+        "registration": "SX-DGB",
+        "manufacturer": "Airbus",
+        "type": "A320-232",
+        "model": "A320-200",
+        "firstFlight": "2009-12-15",
+        "deliveryDate": "2010-01-19",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/35867/sx-dgb-aegean-airlines-airbus-a320-232_PlanespottersNet_1346808_a31dbf5ea3_o.jpg"
+    },
+    {
+        "msn": "A320-6611",
+        "registration": "SX-DGY",
+        "manufacturer": "Airbus",
+        "type": "A320-232SL",
+        "model": "A320-200",
+        "firstFlight": "2015-05-26",
+        "deliveryDate": "2015-06-16",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/36177/sx-dgy-aegean-airlines-airbus-a320-232wl_PlanespottersNet_1288145_f94eb1dca0_o.jpg"
+    },
+    {
+        "msn": "A320-6643",
+        "registration": "SX-DGZ",
+        "manufacturer": "Airbus",
+        "type": "A320-232SL",
+        "model": "A320-200",
+        "firstFlight": "2015-06-05",
+        "deliveryDate": "2015-06-26",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/18379/sx-dgz-aegean-airlines-airbus-a320-232wl_PlanespottersNet_1395012_621ce67b96_o.jpg"
+    },
+    {
+        "msn": "A320-6655",
+        "registration": "SX-DNA",
+        "manufacturer": "Airbus",
+        "type": "A320-232SL",
+        "model": "A320-200",
+        "firstFlight": "2015-06-05",
+        "deliveryDate": "2015-06-26",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/05489/sx-dna-aegean-airlines-airbus-a320-232wl_PlanespottersNet_1365214_eb83d7372e_o.jpg"
+    },
+    {
+        "msn": "A320-6832",
+        "registration": "SX-DNB",
+        "manufacturer": "Airbus",
+        "type": "A320-232SL",
+        "model": "A320-200",
+        "firstFlight": "2015-11-03",
+        "deliveryDate": "2015-11-27",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/36839/sx-dnb-aegean-airlines-airbus-a320-232wl_PlanespottersNet_1322927_efe469f0f3_o.jpg"
+    },
+    {
+        "msn": "A320-6961",
+        "registration": "SX-DNC",
+        "manufacturer": "Airbus",
+        "type": "A320-232SL",
+        "model": "A320-200",
+        "firstFlight": "2016-01-27",
+        "deliveryDate": "2016-02-12",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/32627/sx-dnc-aegean-airlines-airbus-a320-232wl_PlanespottersNet_1316334_0a8494fb52_o.jpg"
+    },
+    {
+        "msn": "A320-6989",
+        "registration": "SX-DND",
+        "manufacturer": "Airbus",
+        "type": "A320-232SL",
+        "model": "A320-200",
+        "firstFlight": "2016-02-15",
+        "deliveryDate": "2016-03-07",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/40435/sx-dnd-aegean-airlines-airbus-a320-232wl_PlanespottersNet_1353546_2dc3b143c8_o.jpg"
+    },
+    {
+        "msn": "A320-7014",
+        "registration": "SX-DNE",
+        "manufacturer": "Airbus",
+        "type": "A320-232SL",
+        "model": "A320-200",
+        "firstFlight": "2016-03-01",
+        "deliveryDate": "2016-03-17",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/01145/sx-dne-aegean-airlines-airbus-a320-232wl_PlanespottersNet_1367595_05e35a4cfb_o.jpg"
+    },
+    {
+        "msn": "A320-9400",
+        "registration": "SX-NEO",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2019-12-09",
+        "deliveryDate": "2019-12-19",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/36099/sx-neo-aegean-airlines-airbus-a320-271n_PlanespottersNet_1364667_bbcd819e19_o.jpg"
+    },
+    {
+        "msn": "A320-9497",
+        "registration": "SX-NEA",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2020-01-14",
+        "deliveryDate": "2020-01-27",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/46465/sx-nea-aegean-airlines-airbus-a320-271n_PlanespottersNet_1413666_77c89bdea7_o.jpg"
+    },
+    {
+        "msn": "A320-9514",
+        "registration": "SX-NEB",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2020-01-17",
+        "deliveryDate": "2020-01-31",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/01201/sx-neb-aegean-airlines-airbus-a320-271n_PlanespottersNet_1400588_0f76577d2f_o.jpg"
+    },
+    {
+        "msn": "A320-9553",
+        "registration": "SX-NAA",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2020-09-21",
+        "deliveryDate": "2020-09-30",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/38117/sx-naa-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1386486_2e9980d342_o.jpg"
+    },
+    {
+        "msn": "A320-9575",
+        "registration": "SX-NAB",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2020-11-02",
+        "deliveryDate": "2020-11-20",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/22335/sx-nab-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1411954_5f0764f457_o.jpg"
+    },
+    {
+        "msn": "A320-9583",
+        "registration": "SX-NEC",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2020-02-26",
+        "deliveryDate": "2020-03-11",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/15217/sx-nec-aegean-airlines-airbus-a320-271n_PlanespottersNet_1414098_be9cbded2b_o.jpg"
+    },
+    {
+        "msn": "A320-10047",
+        "registration": "SX-NED",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2020-03-26",
+        "deliveryDate": "2020-06-18",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/31450/sx-ned-aegean-airlines-airbus-a320-271n_PlanespottersNet_1409219_7768943654_o.jpg"
+    },
+    {
+        "msn": "A320-10189",
+        "registration": "SX-NAC",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2020-11-30",
+        "deliveryDate": "2020-12-16",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/15989/sx-nac-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1321089_ed67142110_o.jpg"
+    },
+    {
+        "msn": "A320-10305",
+        "registration": "SX-NAD",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2021-07-20",
+        "deliveryDate": "2021-07-28",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/12938/sx-nad-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1292865_85275ddc79_o.jpg"
+    },
+    {
+        "msn": "A320-10704",
+        "registration": "SX-NAE",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2022-02-24",
+        "deliveryDate": "2022-03-08",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/24556/sx-nae-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1411395_aefe8fcaf5_o.jpg"
+    },
+    {
+        "msn": "A320-10832",
+        "registration": "SX-NAJ",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2022-07-15",
+        "deliveryDate": "2022-07-29",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/33468/sx-naj-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1378102_f5c77e887b_o.jpg"
+    },
+    {
+        "msn": "A320-10844",
+        "registration": "SX-NAH",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2022-05-31",
+        "deliveryDate": "2022-06-22",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/12577/sx-nah-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1377746_45f1f96b66_o.jpg"
+    },
+    {
+        "msn": "A320-10901",
+        "registration": "SX-NEE",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2022-06-16",
+        "deliveryDate": "2022-06-30",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/01518/sx-nee-aegean-airlines-airbus-a320-271n_PlanespottersNet_1396893_c5268fd1da_o.jpg"
+    },
+    {
+        "msn": "A320-10920",
+        "registration": "SX-NAF",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2022-05-09",
+        "deliveryDate": "2022-05-30",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/10200/sx-naf-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1367000_e29ed44cd1_o.jpg"
+    },
+    {
+        "msn": "A320-10951",
+        "registration": "SX-NAK",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2022-08-22",
+        "deliveryDate": "2022-08-31",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/03695/sx-nak-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1396305_0b5e4a8d64_o.jpg"
+    },
+    {
+        "msn": "A320-10967",
+        "registration": "SX-NAL",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2022-09-15",
+        "deliveryDate": "2022-09-23",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/34990/sx-nal-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1410951_4fe75a967d_o.jpg"
+    },
+    {
+        "msn": "A320-11011",
+        "registration": "SX-NAG",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2022-09-05",
+        "deliveryDate": "2022-09-19",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/43656/sx-nag-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1392340_49c87e5550_o.jpg"
+    },
+    {
+        "msn": "A320-11013",
+        "registration": "SX-NEF",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2022-11-23",
+        "deliveryDate": "2022-11-30",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/02176/sx-nef-aegean-airlines-airbus-a320-271n_PlanespottersNet_1382110_933d1d3aac_o.jpg"
+    },
+    {
+        "msn": "A320-11085",
+        "registration": "SX-NAM",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2022-11-24",
+        "deliveryDate": "2022-12-16",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/12728/sx-nam-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1369890_33ba1c107b_o.jpg"
+    },
+    {
+        "msn": "A320-11132",
+        "registration": "SX-NEG",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2023-02-23",
+        "deliveryDate": "2023-03-15",
+        "exitDate": null,
+        "photoUrl": "https://cdn.jetphotos.com/full/6/1235669_1679299388.jpg"
+    },
+    {
+        "msn": "A320-11308",
+        "registration": "SX-NEH",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2023-02-02",
+        "deliveryDate": "2023-02-17",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/27807/sx-neh-aegean-airlines-airbus-a320-271n_PlanespottersNet_1397035_6c68b19923_o.jpg"
+    },
+    {
+        "msn": "A320-11382",
+        "registration": "SX-NEK",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2023-03-02",
+        "deliveryDate": "2023-03-27",
+        "exitDate": null,
+        "photoUrl": "https://cdn.jetphotos.com/full/5/1290352_1680347705.jpg"
+    },
+    {
+        "msn": "A320-11399",
+        "registration": "SX-NEL",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2023-03-29",
+        "deliveryDate": "2023-04-13",
+        "exitDate": null,
+        "photoUrl": "https://cdn.plnspttrs.net/25736/sx-nel-aegean-airlines-airbus-a320-271n_PlanespottersNet_1413605_5fbb0b0de5_o.jpg"
     }
 ]
