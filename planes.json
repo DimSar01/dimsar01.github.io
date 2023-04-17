@@ -1,14 +1,14 @@
 [
     {
         "msn": "A320-724",
-        "registration": "YL-LCIJ",
+        "registration": "YL-LCI",
         "manufacturer": "Airbus",
         "type": "A320-214",
         "model": "A320-200",
         "firstFlight": "1997-09-04",
         "deliveryDate": "2011-06-04",
         "exitDate": "2011-10-03",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/44017/yl-lci-aegean-airlines-airbus-a320-214_PlanespottersNet_203028_ce511e2b9b_o.jpg"
     },
     {
         "msn": "A320-1428",
@@ -19,7 +19,7 @@
         "firstFlight": "2001-01-23",
         "deliveryDate": "2015-05-27",
         "exitDate": "2020-02-19",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/01506/sx-dgs-aegean-airlines-airbus-a321-231_PlanespottersNet_1012223_b2f4380828_o.jpg"
     },
     {
         "msn": "A320-1433",
@@ -41,7 +41,7 @@
         "firstFlight": "2002-09-28",
         "deliveryDate": "2011-04",
         "exitDate": "2013-04-01",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/15945/sx-dgg-aegean-airlines-airbus-a319-132_PlanespottersNet_367800_d03aca7c00_o.jpg"
     },
     {
         "msn": "A320-1856",
@@ -52,18 +52,18 @@
         "firstFlight": "2002-07-25",
         "deliveryDate": "2015-06-24",
         "exitDate": "2020-02-23",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/41261/sx-dgv-aegean-airlines-airbus-a320-232_PlanespottersNet_1075550_347e4d9d6e_o.jpg"
     },
     {
         "msn": "A320-1880",
-        "registration": "SX-DGF",
+        "registration": "SX-DGH",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
         "firstFlight": "2003-03-10",
         "deliveryDate": "2011-04-21",
         "exitDate": "2012-11-05",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/46803/sx-dgh-aegean-airlines-airbus-a319-132_PlanespottersNet_285836_bae72c4414_o.jpg"
     },
     {
         "msn": "A320-1909",
@@ -74,7 +74,7 @@
         "firstFlight": "2002-11-21",
         "deliveryDate": "2015-04-28",
         "exitDate": "2017-06",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/19511/sx-dgw-aegean-airlines-airbus-a320-232_PlanespottersNet_1351167_548eec6e4e_o.jpg"
     },
     {
         "msn": "A320-1996",
@@ -85,7 +85,7 @@
         "firstFlight": "2003-03-25",
         "deliveryDate": "2015-05-22",
         "exitDate": "2020-07-05",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/01288/sx-dgx-aegean-airlines-airbus-a320-232_PlanespottersNet_1059042_ac4957ca70_o.jpg"
     },
     {
         "msn": "A320-2359",
@@ -96,7 +96,7 @@
         "firstFlight": "2004-12-24",
         "deliveryDate": "2015-03-26",
         "exitDate": "2015-10-24",
-        "photoUrl": ""
+        "photoUrl": "https://cdn.plnspttrs.net/29001/sx-dgu-aegean-airlines-airbus-a320-232_PlanespottersNet_1069915_f28156c908_o.jpg"
     },
     {
         "msn": "A320-2468",
@@ -106,8 +106,8 @@
         "model": "A319-100",
         "firstFlight": "2005-05-13",
         "deliveryDate": "2011-04-27",
-        "exitDate": null,
-        "photoUrl": ""
+        "exitDate": "2023-01-21",
+        "photoUrl": "https://cdn.plnspttrs.net/04486/sx-dgf-aegean-airlines-airbus-a319-132_PlanespottersNet_1363360_6bc7ee6d36_o.jpg"
     },
     {
         "msn": "A320-2553",
@@ -117,8 +117,8 @@
         "model": "A321-200",
         "firstFlight": "2005-09-01",
         "deliveryDate": "2018-03-07",
-        "exitDate": null,
-        "photoUrl": ""
+        "exitDate": "2023-03-02",
+        "photoUrl": "https://cdn.plnspttrs.net/11646/sx-dnf-aegean-airlines-airbus-a321-231_PlanespottersNet_1402084_f7aeec8941_o.jpg"
     },
     {
         "msn": "A320-2610",
