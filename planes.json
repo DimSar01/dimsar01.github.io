@@ -1166,6 +1166,17 @@
         "photoUrl": "https://cdn.jetphotos.com/full/5/1290352_1680347705.jpg"
     },
     {
+        "msn": "A320-11384",
+        "registration": "SX-NEJ",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2023-03-28",
+        "deliveryDate": "2023-04-25",
+        "exitDate": null,
+        "photoUrl": null
+    },
+    {
         "msn": "A320-11399",
         "registration": "SX-NEL",
         "manufacturer": "Airbus",
