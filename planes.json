@@ -1186,5 +1186,16 @@
         "deliveryDate": "2023-04-13",
         "exitDate": null,
         "photoUrl": null
+    },
+    {
+        "msn": "A320-11469",
+        "registration": "SX-NEQ",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2023-04-14",
+        "deliveryDate": "2023-05-11",
+        "exitDate": null,
+        "photoUrl": null
     }
 ]
