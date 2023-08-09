@@ -32,7 +32,8 @@
         "firstFlight": "1992-09-09",
         "deliveryDate": "1999-10-08",
         "exitDate": "2003-10-26",
-        "photoUrl": "https://cdn.jetphotos.com/full/1/47388_1049511135.jpg"
+        "photoUrl": "https://cdn.jetphotos.com/full/1/47388_1049511135.jpg",
+        "wifi": false
     },
     {
         "msn": "ATR7-330",
