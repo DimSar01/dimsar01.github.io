@@ -1260,6 +1260,18 @@
         "wifi": true
     },
     {
+        "msn": "A320-11338",
+        "registration": "SX-NEI",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2023-08-01",
+        "deliveryDate": "2023-08-31",
+        "exitDate": null,
+        "photoUrl": null,
+        "wifi": false
+    },
+    {
         "msn": "A320-11382",
         "registration": "SX-NEK",
         "manufacturer": "Airbus",
