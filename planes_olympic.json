@@ -468,6 +468,18 @@
 		"wifi": false
 	},
 	{
+		"msn": "ATR7-1011",
+		"registration": "SX-OAW",
+		"manufacturer": "ATR",
+		"type": "42-600",
+		"model": "42-600",
+		"firstFlight": "2014-04-24",
+		"deliveryDate": "2016-07-30",
+		"exitDate": "2021-09-20",
+		"photoUrl": "https://cdn.plnspttrs.net/44214/sx-oaw-olympic-air-atr-42-600_PlanespottersNet_1400511_08546a72cc_o.jpg",
+		"wifi": false
+	},
+	{
 		"msn": "ATR7-1016",
 		"registration": "SX-OAX",
 		"manufacturer": "ATR",
