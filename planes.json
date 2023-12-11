@@ -547,8 +547,8 @@
         "model": "A320-200",
         "firstFlight": "2007-06-06",
         "deliveryDate": "2011-05",
-        "exitDate": "2020-05-24",
-        "photoUrl": "https://cdn.plnspttrs.net/48965/sx-dgi-aegean-airlines-airbus-a320-232_PlanespottersNet_1031460_a104ae1d09_o.jpg",
+        "exitDate": null,
+        "photoUrl": null,
         "wifi": false
     },
     {
