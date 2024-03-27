@@ -369,6 +369,7 @@
         "deliveryDate": "2015-03-16",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -477,6 +478,7 @@
         "deliveryDate": "2018-06-15",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -513,6 +515,7 @@
         "deliveryDate": "2007-02-21",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -525,6 +528,7 @@
         "deliveryDate": "2007-03-19",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -537,6 +541,7 @@
         "deliveryDate": "2007-03-20",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -549,6 +554,7 @@
         "deliveryDate": "2011-05",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": false
     },
     {
@@ -597,6 +603,7 @@
         "deliveryDate": "2008-01-15",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": false
     },
     {
@@ -609,6 +616,7 @@
         "deliveryDate": "2008-02-12",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -621,6 +629,7 @@
         "deliveryDate": "2008-03-13",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -633,6 +642,7 @@
         "deliveryDate": "2008-03-19",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -657,6 +667,7 @@
         "deliveryDate": "2008-04-22",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": true
     },
     {
@@ -693,6 +704,7 @@
         "deliveryDate": "2008-06-24",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": true
     },
     {
@@ -717,6 +729,7 @@
         "deliveryDate": "2018-05-25",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -741,6 +754,7 @@
         "deliveryDate": "2008-11-21",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": false
     },
     {
@@ -753,6 +767,7 @@
         "deliveryDate": "2009-01-16",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": true
     },
     {
@@ -789,6 +804,7 @@
         "deliveryDate": "2009-02-04",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": false
     },
     {
@@ -801,6 +817,7 @@
         "deliveryDate": "2009-02-11",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -825,6 +842,7 @@
         "deliveryDate": "2009-03-03",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -837,6 +855,7 @@
         "deliveryDate": "2009-03-18",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -849,6 +868,7 @@
         "deliveryDate": "2009-04-14",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -861,6 +881,7 @@
         "deliveryDate": "2009-04-24",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -885,6 +906,7 @@
         "deliveryDate": "2011-05-06",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -897,6 +919,7 @@
         "deliveryDate": "2011-05-06",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -909,6 +932,7 @@
         "deliveryDate": "2011-05-06",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": false
     },
     {
@@ -921,6 +945,7 @@
         "deliveryDate": "2010-01-19",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": false,
         "wifi": true
     },
     {
@@ -933,6 +958,7 @@
         "deliveryDate": "2015-06-16",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -945,6 +971,7 @@
         "deliveryDate": "2015-06-26",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -957,6 +984,7 @@
         "deliveryDate": "2015-06-26",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -969,6 +997,7 @@
         "deliveryDate": "2015-11-27",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -981,6 +1010,7 @@
         "deliveryDate": "2016-02-12",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -993,6 +1023,7 @@
         "deliveryDate": "2016-03-07",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1005,6 +1036,7 @@
         "deliveryDate": "2016-03-17",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1017,6 +1049,7 @@
         "deliveryDate": "2019-12-19",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1029,6 +1062,7 @@
         "deliveryDate": "2020-01-27",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1041,6 +1075,7 @@
         "deliveryDate": "2020-01-31",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1053,6 +1088,7 @@
         "deliveryDate": "2020-09-30",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1065,6 +1101,7 @@
         "deliveryDate": "2020-11-20",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1077,6 +1114,7 @@
         "deliveryDate": "2020-03-11",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1089,6 +1127,7 @@
         "deliveryDate": "2020-06-18",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1101,6 +1140,7 @@
         "deliveryDate": "2020-12-16",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1113,6 +1153,7 @@
         "deliveryDate": "2021-07-28",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1125,6 +1166,7 @@
         "deliveryDate": "2022-03-08",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1137,6 +1179,7 @@
         "deliveryDate": "2022-07-29",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1149,6 +1192,7 @@
         "deliveryDate": "2022-06-22",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1161,6 +1205,7 @@
         "deliveryDate": "2022-06-30",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1173,6 +1218,7 @@
         "deliveryDate": "2022-05-30",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1185,6 +1231,7 @@
         "deliveryDate": "2022-08-31",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1197,6 +1244,7 @@
         "deliveryDate": "2022-09-23",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1209,6 +1257,7 @@
         "deliveryDate": "2022-09-19",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1221,6 +1270,7 @@
         "deliveryDate": "2022-11-30",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1233,6 +1283,7 @@
         "deliveryDate": "2022-12-16",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1245,6 +1296,7 @@
         "deliveryDate": "2023-03-15",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1257,6 +1309,7 @@
         "deliveryDate": "2023-02-17",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1269,6 +1322,7 @@
         "deliveryDate": "2023-08-31",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1281,6 +1335,7 @@
         "deliveryDate": "2023-03-27",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1293,6 +1348,7 @@
         "deliveryDate": "2023-04-25",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1305,6 +1361,7 @@
         "deliveryDate": "2023-04-13",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1317,6 +1374,7 @@
         "deliveryDate": "2023-05-11",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1329,6 +1387,7 @@
         "deliveryDate": "2023-05-17",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     },
     {
@@ -1341,6 +1400,7 @@
         "deliveryDate": "2023-08-25",
         "exitDate": null,
         "photoUrl": null,
+        "newLivery": true,
         "wifi": true
     }
 ]
