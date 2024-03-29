@@ -598,5 +598,17 @@
 		"exitDate": null,
 		"photoUrl": null,
 		"wifi": false
+	},
+	{
+		"msn": "ATR7-1693",
+		"registration": "SX-OBS",
+		"manufacturer": "ATR",
+		"type": "72-212A",
+		"model": "72-600",
+		"firstFlight": "2024-03-11",
+		"deliveryDate": "2024-03-29",
+		"exitDate": null,
+		"photoUrl": null,
+		"wifi": false
 	}
 ]
