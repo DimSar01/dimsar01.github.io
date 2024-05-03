@@ -2,6 +2,7 @@
     {
         "msn": "A320-1727",
         "registration": "SX-OAN",
+        "testRegistration": "D-AVWQ",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
@@ -14,6 +15,7 @@
     {
         "msn": "A320-1880",
         "registration": "SX-OAO",
+        "testRegistration": "F-WWBF / D-AVYM",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
@@ -26,6 +28,7 @@
     {
         "msn": "A320-3142",
         "registration": "SX-OAV",
+        "testRegistration": "D-AVXQ",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
@@ -38,6 +41,7 @@
     {
         "msn": "A320-3162",
         "registration": "SX-OAI",
+        "testRegistration": "F-WWIF",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -50,6 +54,7 @@
     {
         "msn": "A320-3252",
         "registration": "SX-OAL",
+        "testRegistration": "D-AVWT",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
@@ -62,6 +67,7 @@
     {
         "msn": "A320-3316",
         "registration": "SX-OAH",
+        "testRegistration": "F-WWBB",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -74,6 +80,7 @@
     {
         "msn": "A320-3317",
         "registration": "SX-OAK",
+        "testRegistration": "D-AVYB",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
@@ -86,6 +93,7 @@
     {
         "msn": "A320-3748",
         "registration": "SX-OAQ",
+        "testRegistration": "F-WWBQ",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -98,6 +106,7 @@
     {
         "msn": "A320-3812",
         "registration": "SX-OAR",
+        "testRegistration": "D-AVVE",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -110,6 +119,7 @@
     {
         "msn": "A320-3895",
         "registration": "SX-OAF",
+        "testRegistration": "D-AVWM",
         "manufacturer": "Airbus",
         "type": "A319-112",
         "model": "A319-100",
@@ -122,6 +132,7 @@
     {
         "msn": "A320-3905",
         "registration": "SX-OAJ",
+        "testRegistration": "D-AVWS",
         "manufacturer": "Airbus",
         "type": "A319-112",
         "model": "A319-100",
@@ -134,6 +145,7 @@
     {
         "msn": "A320-3950",
         "registration": "SX-OAG",
+        "testRegistration": "D-AVWT",
         "manufacturer": "Airbus",
         "type": "A319-112",
         "model": "A319-100",
@@ -146,6 +158,7 @@
     {
         "msn": "A320-3990",
         "registration": "SX-OAM",
+        "testRegistration": "F-WWBY",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -158,6 +171,7 @@
     {
         "msn": "A320-4065",
         "registration": "SX-OAP",
+        "testRegistration": "D-AVVL",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -170,6 +184,7 @@
     {
         "msn": "A320-4094",
         "registration": "SX-OAS",
+        "testRegistration": "D-AVVB",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -182,6 +197,7 @@
     {
         "msn": "A320-4190",
         "registration": "SX-OAT",
+        "testRegistration": "F-WWII",
         "manufacturer": "Airbus",
         "type": "A320-214",
         "model": "A320-200",
@@ -194,6 +210,7 @@
     {
         "msn": "A320-4193",
         "registration": "SX-OAU",
+        "testRegistration": "F-WWIJ",
         "manufacturer": "Airbus",
         "type": "A320-214",
         "model": "A320-200",
@@ -206,6 +223,7 @@
     {
         "msn": "Dash-289",
         "registration": "SX-BIW",
+        "testRegistration": "C-GEOA",
         "manufacturer": "De Havilland Canada",
         "type": "DHC-8-102A Dash 8",
         "model": "DHC-8-100",
@@ -218,6 +236,7 @@
     {
         "msn": "Dash-330",
         "registration": "SX-BIO",
+        "testRegistration": "C-GEVP",
         "manufacturer": "De Havilland Canada",
         "type": "DHC-8-102A Dash 8",
         "model": "DHC-8-100",
@@ -230,6 +249,7 @@
     {
         "msn": "Dash-347",
         "registration": "SX-BIP",
+        "testRegistration": "C-GEVP",
         "manufacturer": "De Havilland Canada",
         "type": "DHC-8-102A Dash 8",
         "model": "DHC-8-100",
@@ -242,6 +262,7 @@
     {
         "msn": "Dash-361",
         "registration": "SX-BIQ",
+        "testRegistration": "C-GFHZ",
         "manufacturer": "De Havilland Canada",
         "type": "DHC-8-102A Dash 8",
         "model": "DHC-8-100",
@@ -254,6 +275,7 @@
     {
         "msn": "Dash-364",
         "registration": "SX-BIR",
+        "testRegistration": "C-GFQL",
         "manufacturer": "De Havilland Canada",
         "type": "DHC-8-102A Dash 8",
         "model": "DHC-8-100",
@@ -266,6 +288,7 @@
     {
         "msn": "Dash-4148",
         "registration": "SX-BIT",
+        "testRegistration": "C-FJLE",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -278,6 +301,7 @@
     {
         "msn": "Dash-4152",
         "registration": "SX-BIU",
+        "testRegistration": "C-FJLK",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -290,6 +314,7 @@
     {
         "msn": "Dash-4212",
         "registration": "G-ECOE",
+        "testRegistration": "C-FQXJ",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -302,6 +327,7 @@
     {
         "msn": "Dash-4216",
         "registration": "G-ECOF",
+        "testRegistration": "C-FRJU",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -314,6 +340,7 @@
     {
         "msn": "Dash-4259",
         "registration": "G-FLBD",
+        "testRegistration": "C-FWZN",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -326,6 +353,7 @@
     {
         "msn": "Dash-4261",
         "registration": "G-FLBE",
+        "testRegistration": "C-FXAB",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -338,6 +366,7 @@
     {
         "msn": "Dash-4267",
         "registration": "SX-OBA",
+        "testRegistration": "C-FXJS",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -350,6 +379,7 @@
     {
         "msn": "Dash-4268",
         "registration": "SX-OBB",
+        "testRegistration": "C-FXKG",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -362,6 +392,7 @@
     {
         "msn": "Dash-4276",
         "registration": "SX-OBC",
+        "testRegistration": "C-FYGZ",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -374,6 +405,7 @@
     {
         "msn": "Dash-4311",
         "registration": "SX-OBD",
+        "testRegistration": "C-GBCD",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -386,6 +418,7 @@
     {
         "msn": "Dash-4314",
         "registration": "SX-OBE",
+        "testRegistration": "C-GDEU",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -398,6 +431,7 @@
     {
         "msn": "Dash-4318",
         "registration": "SX-OBF",
+        "testRegistration": "C-GEHQ",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -410,6 +444,7 @@
     {
         "msn": "Dash-4321",
         "registration": "SX-OBG",
+        "testRegistration": "C-GEUZ",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -422,6 +457,7 @@
     {
         "msn": "Dash-4327",
         "registration": "SX-OBH",
+        "testRegistration": "C-GFAK",
         "manufacturer": "Bombardier",
         "type": "DHC-8-402Q Dash 8",
         "model": "DHC-8-400",
@@ -434,6 +470,7 @@
     {
         "msn": "ATR7-996",
         "registration": "SX-OBQ",
+        "testRegistration": "F-WWLU",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -446,6 +483,7 @@
     {
         "msn": "ATR7-1002",
         "registration": "SX-OAY",
+        "testRegistration": "F-WWLL / F-WKVC",
         "manufacturer": "ATR",
         "type": "42-600",
         "model": "42-600",
@@ -458,6 +496,7 @@
     {
         "msn": "ATR7-1005",
         "registration": "SX-OAZ",
+        "testRegistration": "F-WWLN / F-WKVD",
         "manufacturer": "ATR",
         "type": "42-600",
         "model": "42-600",
@@ -470,6 +509,7 @@
     {
         "msn": "ATR7-1011",
         "registration": "SX-OAW",
+        "testRegistration": "F-WWLT / F-WNUB",
         "manufacturer": "ATR",
         "type": "42-600",
         "model": "42-600",
@@ -482,6 +522,7 @@
     {
         "msn": "ATR7-1016",
         "registration": "SX-OAX",
+        "testRegistration": "F-WWLZ",
         "manufacturer": "ATR",
         "type": "42-600",
         "model": "42-600",
@@ -494,6 +535,7 @@
     {
         "msn": "ATR7-1020",
         "registration": "SX-OBK",
+        "testRegistration": "F-WWLN",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -506,6 +548,7 @@
     {
         "msn": "ATR7-1027",
         "registration": "SX-OBL",
+        "testRegistration": "F-WWLT",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -518,6 +561,7 @@
     {
         "msn": "ATR7-1033",
         "registration": "SX-OBP",
+        "testRegistration": "F-WWER",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -530,6 +574,7 @@
     {
         "msn": "ATR7-1053",
         "registration": "SX-OBO",
+        "testRegistration": "F-WWEO",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -542,6 +587,7 @@
     {
         "msn": "ATR7-1058",
         "registration": "SX-OBM",
+        "testRegistration": "F-WWES",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -554,6 +600,7 @@
     {
         "msn": "ATR7-1073",
         "registration": "SX-OBN",
+        "testRegistration": "F-WWEJ",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -566,6 +613,7 @@
     {
         "msn": "ATR7-1129",
         "registration": "SX-OBR",
+        "testRegistration": "F-WWER",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -578,6 +626,7 @@
     {
         "msn": "ATR7-1295",
         "registration": "SX-OBI",
+        "testRegistration": "F-WWEZ",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -590,6 +639,7 @@
     {
         "msn": "ATR7-1325",
         "registration": "SX-OBJ",
+        "testRegistration": "F-WWEH",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
@@ -602,6 +652,7 @@
     {
         "msn": "ATR7-1693",
         "registration": "SX-OBS",
+        "testRegistration": "F-WWEQ",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-600",
