@@ -2,6 +2,7 @@
     {
         "msn": "ATR7-809",
         "registration": "EC-KUL",
+        "testRegistration": "F-WWET",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-500",
@@ -14,6 +15,7 @@
     {
         "msn": "ATR7-824",
         "registration": "EC-KVI",
+        "testRegistration": "F-WWEM",
         "manufacturer": "ATR",
         "type": "72-212A",
         "model": "72-500",
@@ -26,6 +28,7 @@
     {
         "msn": "ATR7-326",
         "registration": "SX-BAO",
+        "testRegistration": "F-WWLI",
         "manufacturer": "ATR",
         "type": "72-202",
         "model": "72-200",
@@ -38,6 +41,7 @@
     {
         "msn": "ATR7-330",
         "registration": "SX-BAP",
+        "testRegistration": "F-WWLL",
         "manufacturer": "ATR",
         "type": "72-202",
         "model": "72-200",
@@ -50,6 +54,7 @@
     {
         "msn": "ATR7-313",
         "registration": "SX-BFK",
+        "testRegistration": "F-WWEI",
         "manufacturer": "ATR",
         "type": "72-202",
         "model": "72-200",
@@ -62,6 +67,7 @@
     {
         "msn": "AVRO-E3374",
         "registration": "SX-DVE",
+        "testRegistration": "G-6-374",
         "manufacturer": "BAE Systems",
         "type": "Avro RJ100",
         "model": "Avro RJ100",
@@ -74,6 +80,7 @@
     {
         "msn": "AVRO-E3375",
         "registration": "SX-DVF",
+        "testRegistration": "G-6-375",
         "manufacturer": "BAE Systems",
         "type": "Avro RJ100",
         "model": "Avro RJ100",
@@ -98,6 +105,7 @@
     {
         "msn": "Boei-25743",
         "registration": "SX-BBU",
+        "testRegistration": "N3519L",
         "manufacturer": "Boeing",
         "type": "737-33A",
         "model": "737-300",
@@ -122,6 +130,7 @@
     {
         "msn": "Boei-29264",
         "registration": "SX-BGW",
+        "testRegistration": "N1795B",
         "manufacturer": "Boeing",
         "type": "737-31S",
         "model": "737-300",
@@ -146,6 +155,7 @@
     {
         "msn": "Boei-29265",
         "registration": "SX-BGZ",
+        "testRegistration": "N1787B",
         "manufacturer": "Boeing",
         "type": "737-31S",
         "model": "737-300",
@@ -290,6 +300,7 @@
     {
         "msn": "AVRO-E3341",
         "registration": "SX-DVA",
+        "testRegistration": "G-6-341",
         "manufacturer": "British Aerospace",
         "type": "Avro RJ100",
         "model": "Avro RJ100",
@@ -302,6 +313,7 @@
     {
         "msn": "AVRO-E3343",
         "registration": "SX-DVB",
+        "testRegistration": "G-6-343",
         "manufacturer": "British Aerospace",
         "type": "Avro RJ100",
         "model": "Avro RJ100",
@@ -314,6 +326,7 @@
     {
         "msn": "AVRO-E3358",
         "registration": "SX-DVC",
+        "testRegistration": "G-6-358",
         "manufacturer": "British Aerospace",
         "type": "Avro RJ100",
         "model": "Avro RJ100",
@@ -326,6 +339,7 @@
     {
         "msn": "AVRO-E3362",
         "registration": "SX-DVD",
+        "testRegistration": "G-6-362",
         "manufacturer": "British Aerospace",
         "type": "Avro RJ100",
         "model": "Avro RJ100",
@@ -338,6 +352,7 @@
     {
         "msn": "A320-724",
         "registration": "YL-LCI",
+        "testRegistration": "F-WWBN",
         "manufacturer": "Airbus",
         "type": "A320-214",
         "model": "A320-200",
@@ -350,6 +365,7 @@
     {
         "msn": "A320-1428",
         "registration": "SX-DGS",
+        "testRegistration": "D-AVZA",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -362,6 +378,7 @@
     {
         "msn": "A320-1433",
         "registration": "SX-DGT",
+        "testRegistration": "D-AVZC",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -375,6 +392,7 @@
     {
         "msn": "A320-1727",
         "registration": "SX-DGG",
+        "testRegistration": "D-AVWQ",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
@@ -387,6 +405,7 @@
     {
         "msn": "A320-1856",
         "registration": "SX-DGV",
+        "testRegistration": "F-WWDI",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -399,6 +418,7 @@
     {
         "msn": "A320-1880",
         "registration": "SX-DGH",
+        "testRegistration": "F-WWBF / D-AVYM",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
@@ -411,6 +431,7 @@
     {
         "msn": "A320-1909",
         "registration": "SX-DGW",
+        "testRegistration": "F-WWDS",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -423,6 +444,7 @@
     {
         "msn": "A320-1996",
         "registration": "SX-DGX",
+        "testRegistration": "F-WWIM",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -435,6 +457,7 @@
     {
         "msn": "A320-2359",
         "registration": "SX-DGU",
+        "testRegistration": "F-WWIT",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -447,6 +470,7 @@
     {
         "msn": "A320-2468",
         "registration": "SX-DGF",
+        "testRegistration": "D-AVYG",
         "manufacturer": "Airbus",
         "type": "A319-132",
         "model": "A319-100",
@@ -459,6 +483,7 @@
     {
         "msn": "A320-2553",
         "registration": "SX-DNF",
+        "testRegistration": "D-AVZJ",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -471,6 +496,7 @@
     {
         "msn": "A320-2610",
         "registration": "SX-DNG",
+        "testRegistration": "D-AVZM",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -484,6 +510,7 @@
     {
         "msn": "A320-2732",
         "registration": "LZ-MDA",
+        "testRegistration": "F-WWBE",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -496,6 +523,7 @@
     {
         "msn": "A320-2828",
         "registration": "SX-DGN",
+        "testRegistration": "F-WWDN",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -508,6 +536,7 @@
     {
         "msn": "A320-3033",
         "registration": "SX-DVG",
+        "testRegistration": "F-WWBX",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -521,6 +550,7 @@
     {
         "msn": "A320-3066",
         "registration": "SX-DVH",
+        "testRegistration": "F-WWIF",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -534,6 +564,7 @@
     {
         "msn": "A320-3074",
         "registration": "SX-DVI",
+        "testRegistration": "F-WWIO",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -547,6 +578,7 @@
     {
         "msn": "A320-3162",
         "registration": "SX-DGI",
+        "testRegistration": "F-WWIF",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -560,6 +592,7 @@
     {
         "msn": "A320-3302",
         "registration": "SX-DGP",
+        "testRegistration": "D-AVZS",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -572,6 +605,7 @@
     {
         "msn": "A320-3316",
         "registration": "SX-DGJ",
+        "testRegistration": "F-WWBB",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -584,6 +618,7 @@
     {
         "msn": "A320-3322",
         "registration": "SX-DGQ",
+        "testRegistration": "D-AVZU",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -596,6 +631,7 @@
     {
         "msn": "A320-3365",
         "registration": "SX-DVJ",
+        "testRegistration": "F-WWIS",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -609,6 +645,7 @@
     {
         "msn": "A320-3392",
         "registration": "SX-DVK",
+        "testRegistration": "F-WWDS",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -622,6 +659,7 @@
     {
         "msn": "A320-3423",
         "registration": "SX-DVL",
+        "testRegistration": "F-WWIV",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -635,6 +673,7 @@
     {
         "msn": "A320-3439",
         "registration": "SX-DVM",
+        "testRegistration": "F-WWDY",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -648,6 +687,7 @@
     {
         "msn": "A320-3462",
         "registration": "SX-DVO",
+        "testRegistration": "D-AVZU",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -660,6 +700,7 @@
     {
         "msn": "A320-3478",
         "registration": "SX-DVN",
+        "testRegistration": "F-WWDI",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -673,6 +714,7 @@
     {
         "msn": "A320-3484",
         "registration": "SX-DGR",
+        "testRegistration": "F-WWIE",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -685,6 +727,7 @@
     {
         "msn": "A320-3519",
         "registration": "SX-DGO",
+        "testRegistration": "F-WWDR",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -697,6 +740,7 @@
     {
         "msn": "A320-3526",
         "registration": "SX-DVQ",
+        "testRegistration": "F-WWDU",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -710,6 +754,7 @@
     {
         "msn": "A320-3527",
         "registration": "SX-DVP",
+        "testRegistration": "D-AVZZ",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -722,6 +767,7 @@
     {
         "msn": "A320-3546",
         "registration": "SX-DNH",
+        "testRegistration": "D-AVZO",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -735,6 +781,7 @@
     {
         "msn": "A320-3709",
         "registration": "SX-DVS",
+        "testRegistration": "F-WWIT",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -748,6 +795,7 @@
     {
         "msn": "A320-3714",
         "registration": "SX-DVR",
+        "testRegistration": "D-AVVB",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -761,6 +809,7 @@
     {
         "msn": "A320-3745",
         "registration": "SX-DVT",
+        "testRegistration": "F-WWIJ",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -774,6 +823,7 @@
     {
         "msn": "A320-3748",
         "registration": "SX-DGK",
+        "testRegistration": "F-WWBQ",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -786,6 +836,7 @@
     {
         "msn": "A320-3753",
         "registration": "SX-DVU",
+        "testRegistration": "F-WWBS",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -798,6 +849,7 @@
     {
         "msn": "A320-3773",
         "registration": "SX-DVV",
+        "testRegistration": "F-WWDT",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -811,6 +863,7 @@
     {
         "msn": "A320-3785",
         "registration": "SX-DVW",
+        "testRegistration": "F-WWIU",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -824,6 +877,7 @@
     {
         "msn": "A320-3812",
         "registration": "SX-DGL",
+        "testRegistration": "D-AVVE",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -836,6 +890,7 @@
     {
         "msn": "A320-3820",
         "registration": "SX-DVZ",
+        "testRegistration": "D-AVZF",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -849,6 +904,7 @@
     {
         "msn": "A320-3829",
         "registration": "SX-DVX",
+        "testRegistration": "F-WWIZ",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -862,6 +918,7 @@
     {
         "msn": "A320-3850",
         "registration": "SX-DVY",
+        "testRegistration": "F-WWDG",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -875,6 +932,7 @@
     {
         "msn": "A320-3878",
         "registration": "SX-DGA",
+        "testRegistration": "D-AVZP",
         "manufacturer": "Airbus",
         "type": "A321-231",
         "model": "A321-200",
@@ -888,6 +946,7 @@
     {
         "msn": "A320-3895",
         "registration": "SX-OAF",
+        "testRegistration": "D-AVWM",
         "manufacturer": "Airbus",
         "type": "A319-112",
         "model": "A319-100",
@@ -900,6 +959,7 @@
     {
         "msn": "A320-3990",
         "registration": "SX-DGE",
+        "testRegistration": "F-WWBY",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -913,6 +973,7 @@
     {
         "msn": "A320-4065",
         "registration": "SX-DGD",
+        "testRegistration": "D-AVVL",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -926,6 +987,7 @@
     {
         "msn": "A320-4094",
         "registration": "SX-DGC",
+        "testRegistration": "D-AVVB",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -939,6 +1001,7 @@
     {
         "msn": "A320-4165",
         "registration": "SX-DGB",
+        "testRegistration": "F-WWBX",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
@@ -952,6 +1015,7 @@
     {
         "msn": "A320-6611",
         "registration": "SX-DGY",
+        "testRegistration": "F-WWDM",
         "manufacturer": "Airbus",
         "type": "A320-232SL",
         "model": "A320-200",
@@ -965,6 +1029,7 @@
     {
         "msn": "A320-6643",
         "registration": "SX-DGZ",
+        "testRegistration": "F-WWIE",
         "manufacturer": "Airbus",
         "type": "A320-232SL",
         "model": "A320-200",
@@ -978,6 +1043,7 @@
     {
         "msn": "A320-6655",
         "registration": "SX-DNA",
+        "testRegistration": "F-WWBM",
         "manufacturer": "Airbus",
         "type": "A320-232SL",
         "model": "A320-200",
@@ -991,6 +1057,7 @@
     {
         "msn": "A320-6832",
         "registration": "SX-DNB",
+        "testRegistration": "F-WWDJ",
         "manufacturer": "Airbus",
         "type": "A320-232SL",
         "model": "A320-200",
@@ -1004,6 +1071,7 @@
     {
         "msn": "A320-6961",
         "registration": "SX-DNC",
+        "testRegistration": "F-WWDV",
         "manufacturer": "Airbus",
         "type": "A320-232SL",
         "model": "A320-200",
@@ -1017,6 +1085,7 @@
     {
         "msn": "A320-6989",
         "registration": "SX-DND",
+        "testRegistration": "F-WWDL",
         "manufacturer": "Airbus",
         "type": "A320-232SL",
         "model": "A320-200",
@@ -1030,6 +1099,7 @@
     {
         "msn": "A320-7014",
         "registration": "SX-DNE",
+        "testRegistration": "F-WWBI",
         "manufacturer": "Airbus",
         "type": "A320-232SL",
         "model": "A320-200",
@@ -1043,6 +1113,7 @@
     {
         "msn": "A320-9400",
         "registration": "SX-NEO",
+        "testRegistration": "F-WWIK",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1056,6 +1127,7 @@
     {
         "msn": "A320-9497",
         "registration": "SX-NEA",
+        "testRegistration": "F-WWIM",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1069,6 +1141,7 @@
     {
         "msn": "A320-9514",
         "registration": "SX-NEB",
+        "testRegistration": "F-WWDK",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1082,6 +1155,7 @@
     {
         "msn": "A320-9553",
         "registration": "SX-NAA",
+        "testRegistration": "D-AYAT",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1095,6 +1169,7 @@
     {
         "msn": "A320-9575",
         "registration": "SX-NAB",
+        "testRegistration": "D-AVZD",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1108,6 +1183,7 @@
     {
         "msn": "A320-9583",
         "registration": "SX-NEC",
+        "testRegistration": "F-WWBF",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1121,6 +1197,7 @@
     {
         "msn": "A320-10047",
         "registration": "SX-NED",
+        "testRegistration": "F-WWIG",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1134,6 +1211,7 @@
     {
         "msn": "A320-10189",
         "registration": "SX-NAC",
+        "testRegistration": "D-AYAP",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1147,6 +1225,7 @@
     {
         "msn": "A320-10305",
         "registration": "SX-NAD",
+        "testRegistration": "D-AZAG",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1160,6 +1239,7 @@
     {
         "msn": "A320-10704",
         "registration": "SX-NAE",
+        "testRegistration": "D-AZWS",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1173,6 +1253,7 @@
     {
         "msn": "A320-10832",
         "registration": "SX-NAJ",
+        "testRegistration": "D-AXXE",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1186,6 +1267,7 @@
     {
         "msn": "A320-10844",
         "registration": "SX-NAH",
+        "testRegistration": "D-AZAX",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1199,6 +1281,7 @@
     {
         "msn": "A320-10901",
         "registration": "SX-NEE",
+        "testRegistration": "F-WWII",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1212,6 +1295,7 @@
     {
         "msn": "A320-10920",
         "registration": "SX-NAF",
+        "testRegistration": "D-AVYE",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1225,6 +1309,7 @@
     {
         "msn": "A320-10951",
         "registration": "SX-NAK",
+        "testRegistration": "D-AYAE",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1238,6 +1323,7 @@
     {
         "msn": "A320-10967",
         "registration": "SX-NAL",
+        "testRegistration": "D-AYAU",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1251,6 +1337,7 @@
     {
         "msn": "A320-11011",
         "registration": "SX-NAG",
+        "testRegistration": "D-AVXL",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1264,6 +1351,7 @@
     {
         "msn": "A320-11013",
         "registration": "SX-NEF",
+        "testRegistration": "D-AUBZ",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1277,6 +1365,7 @@
     {
         "msn": "A320-11085",
         "registration": "SX-NAM",
+        "testRegistration": "D-AVZV",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -1290,6 +1379,7 @@
     {
         "msn": "A320-11132",
         "registration": "SX-NEG",
+        "testRegistration": "D-AVVK",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1303,6 +1393,7 @@
     {
         "msn": "A320-11308",
         "registration": "SX-NEH",
+        "testRegistration": "F-WWTR",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1316,6 +1407,7 @@
     {
         "msn": "A320-11338",
         "registration": "SX-NEI",
+        "testRegistration": "F-WWIG",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1329,6 +1421,7 @@
     {
         "msn": "A320-11382",
         "registration": "SX-NEK",
+        "testRegistration": "F-WWDT",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1342,6 +1435,7 @@
     {
         "msn": "A320-11384",
         "registration": "SX-NEJ",
+        "testRegistration": "F-WWIB",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1355,6 +1449,7 @@
     {
         "msn": "A320-11399",
         "registration": "SX-NEL",
+        "testRegistration": "F-WWIA",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1368,6 +1463,7 @@
     {
         "msn": "A320-11469",
         "registration": "SX-NEQ",
+        "testRegistration": "F-WWBO",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1381,6 +1477,7 @@
     {
         "msn": "A320-11474",
         "registration": "SX-NEM",
+        "testRegistration": "F-WWIX",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
@@ -1394,6 +1491,7 @@
     {
         "msn": "A320-11546",
         "registration": "SX-NEP",
+        "testRegistration": "F-WWTX",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
