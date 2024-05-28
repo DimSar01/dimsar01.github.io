@@ -1503,6 +1503,20 @@
         "wifi": true
     },
     {
+        "msn": "A320-11827",
+        "registration": "SX-NAO",
+        "testRegistration": "D-AZYP",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2024-04-26",
+        "deliveryDate": "2024-05-28",
+        "exitDate": null,
+        "photoURL": null,
+        "newLivery": true,
+        "wifi": false
+    },
+    {
         "msn": "A320-12079",
         "registration": "SX-NER",
         "testRegistration": "F-WWTV",
