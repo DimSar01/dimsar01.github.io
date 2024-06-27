@@ -524,5 +524,17 @@
         "deliveryDate": "2024-05-31",
         "exitDate": null,
         "photoURL": null,
+    },
+    {
+        "msn": "A320-12164",
+        "registration": "SX-IOB",
+        "testRegistration": "F-WWDK",
+        "manufacturer": "Airbus",
+        "type": "A320-251N",
+        "model": "A320neo",
+        "firstFlight": "2024-06-12",
+        "deliveryDate": "2024-06-27",
+        "exitDate": null,
+        "photoURL": null,
     }
 ]
