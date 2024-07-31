@@ -346,6 +346,18 @@
         "photoURL": null,
     },
     {
+        "msn": "ATR7-1672",
+        "registration": "SX-TSV",
+        "testRegistration": "F-WWES",
+        "manufacturer": "ATR",
+        "type": "72-212A",
+        "model": "72-600",
+        "firstFlight": "2024-07-19",
+        "deliveryDate": "2024-07-31",
+        "exitDate": null,
+        "photoURL": null,
+    },
+    {
         "msn": "ATR7-1676",
         "registration": "SX-IPO",
         "testRegistration": "F-WWEX",
