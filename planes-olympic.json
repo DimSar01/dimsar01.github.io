@@ -661,5 +661,18 @@
         "exitDate": null,
         "photoURL": null,
         "wifi": false
+    },
+    {
+        "msn": "ATR7-1699",
+        "registration": "SX-OBT",
+        "testRegistration": "F-WWEX",
+        "manufacturer": "ATR",
+        "type": "72-212A",
+        "model": "72-600",
+        "firstFlight": "2024-07-24",
+        "deliveryDate": "2024-08-01",
+        "exitDate": null,
+        "photoURL": null,
+        "wifi": false
     }
 ]
