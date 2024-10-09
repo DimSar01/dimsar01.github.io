@@ -1517,6 +1517,20 @@
         "wifi": false
     },
     {
+        "msn": "A320-12070",
+        "registration": "SX-NET",
+        "testRegistration": "F-WWTL",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2024-09-24",
+        "deliveryDate": "2024-10-09",
+        "exitDate": null,
+        "photoURL": null,
+        "newLivery": true,
+        "wifi": false
+    },
+    {
         "msn": "A320-12079",
         "registration": "SX-NER",
         "testRegistration": "F-WWTV",
