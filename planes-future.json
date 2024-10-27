@@ -11,5 +11,18 @@
         "exitDate": null,
         "photoURL": null,
         "wifi": false
+    },
+    {
+        "msn": "A320-12381",
+        "registration": "",
+        "testRegistration": "D-A???",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": null,
+        "deliveryDate": null,
+        "exitDate": null,
+        "photoURL": null,
+        "wifi": false
     }
 ]
