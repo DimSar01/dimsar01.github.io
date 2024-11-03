@@ -384,8 +384,8 @@
         "model": "A321-200",
         "firstFlight": "2001-01-31",
         "deliveryDate": "2015-03-16",
-        "exitDate": null,
-        "photoURL": null,
+        "exitDate": "2024-10-21",
+        "photoURL": "https://cdn.jetphotos.com/full/5/1197113_1726043753.jpg",
         "newLivery": false,
         "wifi": false
     },
