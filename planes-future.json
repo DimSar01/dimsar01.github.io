@@ -14,6 +14,19 @@
     },
     {
         "msn": "A320-12432",
+        "registration": "SX-NEU",
+        "testRegistration": "F-WWTM",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": null,
+        "deliveryDate": null,
+        "exitDate": null,
+        "photoURL": null,
+        "wifi": false
+    },
+    {
+        "msn": "A320-12449",
         "registration": "",
         "testRegistration": "F-WW??",
         "manufacturer": "Airbus",
