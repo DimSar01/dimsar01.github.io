@@ -1556,6 +1556,6 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": false
+        "wifi": true
     }
 ]
