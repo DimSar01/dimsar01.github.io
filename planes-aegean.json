@@ -556,8 +556,8 @@
         "model": "A320-200",
         "firstFlight": "2007-02-23",
         "deliveryDate": "2007-03-19",
-        "exitDate": null,
-        "photoURL": null,
+        "exitDate": "2024-10-21",
+        "photoURL": "https://cdn.jetphotos.com/full/6/845622_1721154405.jpg",
         "newLivery": false,
         "wifi": false
     },
