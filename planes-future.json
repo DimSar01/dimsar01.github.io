@@ -1,18 +1,5 @@
 [
     {
-        "msn": "A320-12381",
-        "registration": "SX-NAP",
-        "testRegistration": "D-AXXI",
-        "manufacturer": "Airbus",
-        "type": "A321-271NX",
-        "model": "A321neo",
-        "firstFlight": "2024-12-11",
-        "deliveryDate": null,
-        "exitDate": null,
-        "photoURL": "https://cdn.plnspttrs.net/28859/d-axxi-aegean-airlines-airbus-a321-271nx_PlanespottersNet_1691543_366aabca76_o.jpg",
-        "wifi": false
-    },
-    {
         "msn": "A320-12432",
         "registration": "SX-NEU",
         "testRegistration": "F-WWTM",
