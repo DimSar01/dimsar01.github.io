@@ -1,3 +1,52 @@
 [
-
+    {
+        "fleetType": "current",
+        "model": "Airbus A320-200",
+        "number": "27"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A321-200",
+        "number": "4"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A320neo",
+        "number": "19"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A321neo",
+        "number": "14"
+    },
+    {
+        "fleetType": "current",
+        "model": "DHC-8-100",
+        "number": "2"
+    },
+    {
+        "fleetType": "current",
+        "model": "ATR 42-600",
+        "number": "3"
+    },
+    {
+        "fleetType": "current",
+        "model": "ATR 72-600",
+        "number": "12"
+    },
+    {
+        "fleetType": "future",
+        "model": "Airbus A320neo",
+        "number": "2"
+    },
+    {
+        "fleetType": "future",
+        "model": "Airbus A321neo",
+        "number": "11"
+    },
+    {
+        "fleetType": "future",
+        "model": "Airbus A321LR",
+        "number": "4"
+    }
 ]
