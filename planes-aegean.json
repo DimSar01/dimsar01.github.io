@@ -604,15 +604,15 @@
     },
     {
         "msn": "A320-3316",
-        "registration": "SX-DGJ",
+        "registration": "YR-AGB",
         "testRegistration": "F-WWBB",
         "manufacturer": "Airbus",
         "type": "A320-232",
         "model": "A320-200",
         "firstFlight": "2007-11-05",
         "deliveryDate": "2013-04",
-        "exitDate": "2022-06-10",
-        "photoURL": "https://cdn.plnspttrs.net/19998/sx-dgj-aegean-airlines-airbus-a320-232_PlanespottersNet_1315061_c4561ce12b_o.jpg",
+        "exitDate": null,
+        "photoURL": null,
         "wifi": false
     },
     {
