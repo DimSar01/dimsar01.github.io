@@ -613,6 +613,7 @@
         "deliveryDate": "2013-04",
         "exitDate": null,
         "photoURL": null,
+        "newLivery": false,
         "wifi": false
     },
     {
