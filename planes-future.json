@@ -6,7 +6,7 @@
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
-        "firstFlight": null,
+        "firstFlight": "2025-01-13",
         "deliveryDate": null,
         "exitDate": null,
         "photoURL": "https://live.staticflickr.com/65535/54252629471_22b627d308_k_d.jpg",
@@ -15,7 +15,7 @@
     {
         "msn": "A320-12449",
         "registration": "SX-NEV",
-        "testRegistration": "F-WW??",
+        "testRegistration": "F-WWBY",
         "manufacturer": "Airbus",
         "type": "A320-271N",
         "model": "A320neo",
