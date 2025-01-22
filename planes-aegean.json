@@ -1010,7 +1010,7 @@
         "deliveryDate": "2010-01-19",
         "exitDate": null,
         "photoURL": null,
-        "newLivery": false,
+        "newLivery": true,
         "wifi": true
     },
     {
