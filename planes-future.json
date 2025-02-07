@@ -1,18 +1,5 @@
 [
     {
-        "msn": "A320-12432",
-        "registration": "SX-NEU",
-        "testRegistration": "F-WWTM",
-        "manufacturer": "Airbus",
-        "type": "A320-271N",
-        "model": "A320neo",
-        "firstFlight": "2025-01-13",
-        "deliveryDate": "2025-02-07",
-        "exitDate": null,
-        "photoURL": "https://live.staticflickr.com/65535/54264665588_c8a6331ee6_h.jpg",
-        "wifi": false
-    },
-    {
         "msn": "A320-12449",
         "registration": "SX-NEV",
         "testRegistration": "F-WWBY",
