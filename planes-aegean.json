@@ -805,7 +805,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": false
+        "wifi": true
     },
     {
         "msn": "A320-3745",
@@ -859,7 +859,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": false
+        "wifi": true
     },
     {
         "msn": "A320-3785",
