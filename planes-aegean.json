@@ -1515,7 +1515,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": false
+        "wifi": true
     },
     {
         "msn": "A320-12070",
