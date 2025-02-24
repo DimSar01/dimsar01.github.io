@@ -996,7 +996,7 @@
         "deliveryDate": "2011-05-06",
         "exitDate": null,
         "photoURL": null,
-        "newLivery": false,
+        "newLivery": true,
         "wifi": false
     },
     {
