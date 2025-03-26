@@ -12,7 +12,7 @@
     {
         "fleetType": "current",
         "model": "Airbus A320neo",
-        "number": "20"
+        "number": "21"
     },
     {
         "fleetType": "current",
@@ -33,11 +33,6 @@
         "fleetType": "current",
         "model": "DHC Dash 8-100",
         "number": "2"
-    },
-    {
-        "fleetType": "future",
-        "model": "Airbus A320neo",
-        "number": "1"
     },
     {
         "fleetType": "future",
