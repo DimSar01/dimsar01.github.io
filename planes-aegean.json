@@ -1586,5 +1586,18 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": false
+    },
+    {
+        "msn": "A320-12449",
+        "registration": "SX-NEV",
+        "testRegistration": "F-WWBY",
+        "manufacturer": "Airbus",
+        "type": "A320-271N",
+        "model": "A320neo",
+        "firstFlight": "2025-03-03",
+        "deliveryDate": "2025-03-26",
+        "exitDate": null,
+        "photoURL": null,
+        "wifi": false
     }
 ]
