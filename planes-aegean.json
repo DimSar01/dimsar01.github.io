@@ -1616,6 +1616,7 @@
         "deliveryDate": "2025-03-26",
         "exitDate": null,
         "photoURL": null,
+        "newLivery": true,
         "wifi": false
     }
 ]
