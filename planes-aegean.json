@@ -91,13 +91,25 @@
         "wifi": false
     },
     {
+        "msn": "Boei-24679",
+        "registration": "SX-BGK",
+        "manufacturer": "Boeing",
+        "type": "737-3Y0",
+        "model": "737-300",
+        "firstFlight": "1990-07-16",
+        "deliveryDate": "2001-10-28",
+        "exitDate": "2008-05-21",
+        "photoURL": "https://cdn.plnspttrs.net/29858/sx-bgk-aegean-airlines-boeing-737-3y0_PlanespottersNet_030017_42a5141c4a_o.jpg",
+        "wifi": false
+    },
+    {
         "msn": "Boei-25011",
         "registration": "SX-BBT",
         "manufacturer": "Boeing",
         "type": "737-33A",
         "model": "737-300",
         "firstFlight": "1991-03-01",
-        "deliveryDate": "2003-04",
+        "deliveryDate": "2001-10-28",
         "exitDate": "2005-04-22",
         "photoURL": "https://cdn.jetphotos.com/full/1/44754_1134338278.jpg",
         "wifi": false
@@ -110,21 +122,21 @@
         "type": "737-33A",
         "model": "737-300",
         "firstFlight": "1992-01-16",
-        "deliveryDate": "2003-04",
+        "deliveryDate": "2001-10-28",
         "exitDate": "2010-05-04",
         "photoURL": "https://cdn.plnspttrs.net/26732/sx-bbu-aegean-airlines-boeing-737-33a_PlanespottersNet_322796_2ca0d50eed_o.jpg",
         "wifi": false
     },
     {
-        "msn": "Boei-24679",
-        "registration": "SX-BGK",
+        "msn": "Boei-27061",
+        "registration": "SX-BGI",
         "manufacturer": "Boeing",
-        "type": "737-3Y0",
+        "type": "737-3L9",
         "model": "737-300",
-        "firstFlight": "1990-07-16",
-        "deliveryDate": "2003-04",
-        "exitDate": "2008-05-21",
-        "photoURL": "https://cdn.plnspttrs.net/29858/sx-bgk-aegean-airlines-boeing-737-3y0_PlanespottersNet_030017_42a5141c4a_o.jpg",
+        "firstFlight": "1992-07-30",
+        "deliveryDate": "2001-10-28",
+        "exitDate": "2003-01-06",
+        "photoURL": "https://cdn.jetphotos.com/full/2/35579_1092344744.jpg",
         "wifi": false
     },
     {
@@ -184,7 +196,7 @@
         "type": "737-4YO",
         "model": "737-400",
         "firstFlight": "1988-09-09",
-        "deliveryDate": "2003-04",
+        "deliveryDate": "2001-10-28",
         "exitDate": "2009-09-18",
         "photoURL": "https://cdn.plnspttrs.net/07222/sx-bgh-aegean-airlines-boeing-737-4y0_PlanespottersNet_1142077_8f1f0b345b_o.jpg",
         "wifi": false
@@ -196,7 +208,7 @@
         "type": "737-4S3",
         "model": "737-400",
         "firstFlight": "1992-02-21",
-        "deliveryDate": "2003-04",
+        "deliveryDate": "2001-10-28",
         "exitDate": "2010-05-12",
         "photoURL": "https://cdn.plnspttrs.net/34589/sx-bgj-aegean-airlines-boeing-737-4s3_PlanespottersNet_227032_f5913ae7a2_o.jpg",
         "wifi": false
@@ -232,7 +244,7 @@
         "type": "737-408",
         "model": "737-400",
         "firstFlight": "1991-04-05",
-        "deliveryDate": "2003-04",
+        "deliveryDate": "2002-05-29",
         "exitDate": "2009-09-21",
         "photoURL": "https://cdn.plnspttrs.net/47073/sx-bgr-aegean-airlines-boeing-737-408_PlanespottersNet_046963_9e35c8b9c9_o.jpg",
         "wifi": false
@@ -280,7 +292,7 @@
         "type": "737-42C",
         "model": "737-400",
         "firstFlight": "1991-05-30",
-        "deliveryDate": "2003-04",
+        "deliveryDate": "2002-03-14",
         "exitDate": "2010-02",
         "photoURL": "https://cdn.plnspttrs.net/37341/sx-blm-aegean-airlines-boeing-737-42c_PlanespottersNet_102505_172e8e490d_o.jpg",
         "wifi": false
