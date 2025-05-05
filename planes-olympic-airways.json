@@ -68,5 +68,19 @@
         "deliveryDate": "1985-12-23",
         "exitDate": "2002-06-12",
         "photoURL": "https://cdn.jetphotos.com/full/5/69174_1424638906.jpg"
+    },
+    {
+        "msn": "Doug-Unknown",
+        "fleetType": "narrow",
+        "registration": "SX-BAA",
+        "testRegistration": "Unknown",
+        "manufacturer": "Douglas",
+        "type": "DC-3",
+        "model": "DC-3",
+        "name": null,
+        "firstFlight": null,
+        "deliveryDate": null,
+        "exitDate": null,
+        "photoURL": null
     }
 ]
