@@ -5,16 +5,19 @@
         "SX-DVL",
         "SX-DVM",
         "SX-DVR",
+        "SX-DVW",
         "SX-NAC",
         "SX-NAD",
         "SX-NAF",
         "SX-NAJ",
         "SX-NAM",
         "SX-NAP",
+        "SX-NAO",
         "SX-NEC",
         "SX-NEE",
         "SX-NEH",
         "SX-NEJ",
-        "SX-NEQ"
+        "SX-NEQ",
+        "SX-NES"
     ]
 }
