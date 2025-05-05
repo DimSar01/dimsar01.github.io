@@ -12,5 +12,61 @@
         "deliveryDate": "1973-06-21",
         "exitDate": "1985-04-11",
         "photoURL": "https://cdn.jetphotos.com/full/6/11389_1474171072.jpg"
-      }
+    },
+    {
+        "msn": "Boei-20825",
+        "fleetType": "wide",
+        "registration": "SX-OAB",
+        "testRegistration": "Unknown",
+        "manufacturer": "Boeing",
+        "type": "747-284B",
+        "model": "747-200",
+        "name": "Olympic Eagle",
+        "firstFlight": "1973-10-12",
+        "deliveryDate": "1973-12-07",
+        "exitDate": "1999",
+        "photoURL": "https://cdn.jetphotos.com/full/1/65246_1070539565.jpg"
+    },
+    {
+        "msn": "Boei-21683",
+        "fleetType": "wide",
+        "registration": "SX-OAC",
+        "testRegistration": "Unknown",
+        "manufacturer": "Boeing",
+        "type": "747-212B",
+        "model": "747-200",
+        "name": "Olympic Spirit",
+        "firstFlight": "1979-08-02",
+        "deliveryDate": "1984-09-01",
+        "exitDate": null,
+        "photoURL": "https://cdn.jetphotos.com/full/6/669766_1704310771.jpg"
+    },
+    {
+        "msn": "Boei-21684",
+        "fleetType": "wide",
+        "registration": "SX-OAD",
+        "testRegistration": "Unknown",
+        "manufacturer": "Boeing",
+        "type": "747-212B",
+        "model": "747-200",
+        "name": "Olympic Flame",
+        "firstFlight": "1979-08-09",
+        "deliveryDate": "1985-04-01",
+        "exitDate": "2002-06-12",
+        "photoURL": "https://cdn.jetphotos.com/full/5/278139_1741174507.jpg"
+    },
+    {
+        "msn": "Boei-21935",
+        "fleetType": "wide",
+        "registration": "SX-OAE",
+        "testRegistration": "Unknown",
+        "manufacturer": "Boeing",
+        "type": "747-212B",
+        "model": "747-200",
+        "name": "Olympic Peace",
+        "firstFlight": "1979-09-17",
+        "deliveryDate": "1985-12-23",
+        "exitDate": "2002-06-12",
+        "photoURL": "https://cdn.jetphotos.com/full/5/69174_1424638906.jpg"
+    }
 ]
