@@ -71,7 +71,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAA",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -85,7 +85,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAC",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -99,7 +99,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAD",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -113,7 +113,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAE",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -127,7 +127,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAG",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -141,7 +141,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAH",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -155,7 +155,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAK",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -169,7 +169,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAL",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -183,7 +183,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BAN",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -197,7 +197,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BBA",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -211,7 +211,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BBC",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -225,7 +225,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BBD",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -239,7 +239,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BBE",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -253,7 +253,7 @@
     },
     {
         "msn": "Doug-Unknown",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-BBF",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
@@ -267,7 +267,7 @@
     },
     {
         "msn": "Doug-27336",
-        "fleetType": "narrow",
+        "fleetType": "old",
         "registration": "SX-DAC",
         "testRegistration": "Unknown",
         "manufacturer": "Douglas",
