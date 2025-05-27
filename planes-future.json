@@ -1,18 +1,5 @@
 [
     {
-        "msn": "A320-12621",
-        "registration": "SX-NAQ",
-        "testRegistration": "D-AVZW",
-        "manufacturer": "Airbus",
-        "type": "A321-271NX",
-        "model": "A321neo",
-        "firstFlight": "2025-05-13",
-        "deliveryDate": "2025-05-27",
-        "exitDate": null,
-        "photoURL": "https://live.staticflickr.com/65535/54514433291_87366dd880_k_d.jpg",
-        "wifi": false
-    },
-    {
         "msn": "A320-12718",
         "registration": "",
         "testRegistration": "D-A???",
