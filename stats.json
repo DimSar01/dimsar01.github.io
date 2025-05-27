@@ -17,7 +17,7 @@
     {
         "fleetType": "current",
         "model": "Airbus A321neo",
-        "number": "14"
+        "number": "15"
     },
     {
         "fleetType": "current",
@@ -37,7 +37,7 @@
     {
         "fleetType": "future",
         "model": "Airbus A321neo",
-        "number": "19"
+        "number": "18"
     },
     {
         "fleetType": "future",
