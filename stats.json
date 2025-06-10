@@ -45,7 +45,7 @@
         "number": "4"
     },
     {
-        "fleetType": "current",
+        "fleetType": "future",
         "model": "ATR 72-600",
         "number": "1"
     }
