@@ -1431,7 +1431,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "isGrounded": true
     },
     {
         "msn": "A320-11338",
