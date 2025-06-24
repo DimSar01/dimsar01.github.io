@@ -1137,7 +1137,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2025-10-22"
+        "groundedSince": "2024-03-01"
     },
     {
         "msn": "A320-9497",
@@ -1153,7 +1153,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2025-05-07"
+        "groundedSince": "2023-09-15"
     },
     {
         "msn": "A320-9514",
@@ -1183,7 +1183,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2026-06-08"
+        "groundedSince": "2024-10-16"
     },
     {
         "msn": "A320-9575",
@@ -1213,7 +1213,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2025-12-17"
+        "groundedSince": "2024-04-26"
     },
     {
         "msn": "A320-10047",
@@ -1229,7 +1229,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2025-04-27"
+        "groundedSince": "2023-09-05"
     },
     {
         "msn": "A320-10189",
@@ -1301,7 +1301,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2025-10-03"
+        "groundedSince": "2024-02-11"
     },
     {
         "msn": "A320-10901",
@@ -1317,7 +1317,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2025-05-25"
+        "groundedSince": "2023-10-03"
     },
     {
         "msn": "A320-10920",
@@ -1375,7 +1375,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2025-07-05"
+        "groundedSince": "2023-11-13"
     },
     {
         "msn": "A320-11013",
@@ -1433,7 +1433,7 @@
         "newLivery": true,
         "wifi": true,
         "isGrounded": true,
-        "groundedUntil": "2025-12-31"
+        "groundedSince": "2025-03-11"
     },
     {
         "msn": "A320-11338",
