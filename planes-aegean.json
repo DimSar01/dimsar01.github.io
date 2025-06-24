@@ -1432,7 +1432,8 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
-        "isGrounded": true
+        "isGrounded": true,
+        "groundedUntil": "2025-12-31"
     },
     {
         "msn": "A320-11338",
