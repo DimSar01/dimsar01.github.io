@@ -1,7 +1,7 @@
 [
     {
         "msn": "A320-12718",
-        "registration": "",
+        "registration": "SX-NAR",
         "testRegistration": "D-AVXI",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
@@ -9,7 +9,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null,
+        "photoURL": "https://dimsar01.github.io/images/54615556561_aaa88865d6_k.jpg",
         "wifi": false
     },
     {
@@ -22,7 +22,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": "https://live.staticflickr.com/65535/54524160997_30ac58ea4e_k_d.jpg",
+        "photoURL": "https://dimsar01.github.io/images/54569841032_e530e1f1a1_k.jpg",
         "wifi": false
     }
 ]
