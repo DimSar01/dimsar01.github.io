@@ -1417,7 +1417,9 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "isGrounded": true,
+        "groundedSince": "2025-05-26"
     },
     {
         "msn": "A320-11308",
