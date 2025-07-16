@@ -46,6 +46,11 @@
     },
     {
         "fleetType": "future",
+        "model": "Airbus A321XLR",
+        "number": "2"
+    },
+    {
+        "fleetType": "future",
         "model": "ATR 72-600",
         "number": "1"
     }
