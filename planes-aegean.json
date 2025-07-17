@@ -1136,6 +1136,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2024-03-01"
     },
@@ -1152,6 +1153,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2023-09-15"
     },
@@ -1167,7 +1169,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-9553",
@@ -1182,6 +1185,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2024-10-16"
     },
@@ -1197,7 +1201,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-9583",
@@ -1212,6 +1217,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2024-04-26"
     },
@@ -1228,6 +1234,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2023-09-05"
     },
@@ -1243,7 +1250,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-10305",
@@ -1257,7 +1265,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-10704",
@@ -1271,7 +1280,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-10832",
@@ -1285,7 +1295,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-10844",
@@ -1300,6 +1311,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2024-02-11"
     },
@@ -1316,6 +1328,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2023-10-03"
     },
@@ -1331,7 +1344,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-10951",
@@ -1345,7 +1359,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-10967",
@@ -1359,7 +1374,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11011",
@@ -1374,6 +1390,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2023-11-13"
     },
@@ -1389,7 +1406,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11085",
@@ -1403,7 +1421,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11132",
@@ -1418,6 +1437,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2025-05-26"
     },
@@ -1434,6 +1454,7 @@
         "photoURL": null,
         "newLivery": true,
         "wifi": true,
+        "usbA": true,
         "isGrounded": true,
         "groundedSince": "2025-03-11"
     },
@@ -1449,7 +1470,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11382",
@@ -1463,7 +1485,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11384",
@@ -1477,7 +1500,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11399",
@@ -1491,7 +1515,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11469",
@@ -1505,7 +1530,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11474",
@@ -1519,7 +1545,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11546",
@@ -1533,7 +1560,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-11827",
@@ -1547,7 +1575,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-12070",
@@ -1561,7 +1590,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-12079",
@@ -1575,7 +1605,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-12094",
@@ -1589,7 +1620,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-12381",
@@ -1603,7 +1635,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": true
+        "wifi": true,
+        "usbA": true
     },
     {
         "msn": "A320-12432",
@@ -1617,7 +1650,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": false
+        "wifi": false,
+        "usbA": true
     },
     {
         "msn": "A320-12449",
@@ -1631,7 +1665,8 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": false
+        "wifi": false,
+        "usbA": true
     },
     {
         "msn": "A320-12621",
@@ -1645,6 +1680,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "wifi": false
+        "wifi": false,
+        "usbA": true
     }
 ]
