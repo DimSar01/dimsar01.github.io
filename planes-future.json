@@ -24,5 +24,18 @@
         "exitDate": null,
         "photoURL": "https://live.staticflickr.com/65535/54639330699_6bbbef21cd_h.jpg",
         "wifi": false
+    },
+    {
+        "msn": "ATR7-1728",
+        "registration": "SX-OBU",
+        "testRegistration": "F-WWEE",
+        "manufacturer": "ATR",
+        "type": "72-212A",
+        "model": "72-600",
+        "firstFlight": null,
+        "deliveryDate": null,
+        "exitDate": null,
+        "photoURL": null,
+        "wifi": false
     }
 ]
