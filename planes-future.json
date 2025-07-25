@@ -26,6 +26,32 @@
         "wifi": false
     },
     {
+        "msn": "A320-12475",
+        "registration": "",
+        "testRegistration": "D-AZYS",
+        "manufacturer": "Airbus",
+        "type": "A321-271NY",
+        "model": "A321XLR",
+        "firstFlight": "2025-05-23",
+        "deliveryDate": null,
+        "exitDate": null,
+        "photoURL": "https://live.staticflickr.com/65535/54668277072_c836214b6b_h.jpg",
+        "wifi": false
+    },
+    {
+        "msn": "A320-12606",
+        "registration": "",
+        "testRegistration": "D-A???",
+        "manufacturer": "Airbus",
+        "type": "A321-271NY",
+        "model": "A321XLR",
+        "firstFlight": null,
+        "deliveryDate": null,
+        "exitDate": null,
+        "photoURL": null,
+        "wifi": false
+    },
+    {
         "msn": "ATR7-1728",
         "registration": "SX-OBU",
         "testRegistration": "F-WWEE",
