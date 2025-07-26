@@ -257,6 +257,7 @@
         "deliveryDate": "2009-09-29",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "DH1",
         "wifi": false
     },
     {
@@ -283,6 +284,7 @@
         "deliveryDate": "2009-09-29",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "DH1",
         "wifi": false
     },
     {
@@ -478,6 +480,7 @@
         "deliveryDate": "2022-07-08",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7_Old",
         "wifi": false
     },
     {
@@ -491,6 +494,7 @@
         "deliveryDate": "2021-08-06",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT4",
         "wifi": false
     },
     {
@@ -504,6 +508,7 @@
         "deliveryDate": "2021-09-20",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT4",
         "wifi": false
     },
     {
@@ -530,6 +535,7 @@
         "deliveryDate": "2016-08-02",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "OAX",
         "wifi": false
     },
     {
@@ -543,6 +549,7 @@
         "deliveryDate": "2022-05-25",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7_Old",
         "wifi": false
     },
     {
@@ -556,6 +563,7 @@
         "deliveryDate": "2022-06-02",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7_Old",
         "wifi": false
     },
     {
@@ -569,6 +577,7 @@
         "deliveryDate": "2022-06-09",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7_Old",
         "wifi": false
     },
     {
@@ -582,6 +591,7 @@
         "deliveryDate": "2022-06-27",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7",
         "wifi": false
     },
     {
@@ -595,6 +605,7 @@
         "deliveryDate": "2022-01-28",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7",
         "wifi": false
     },
     {
@@ -608,6 +619,7 @@
         "deliveryDate": "2022-05-13",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7",
         "wifi": false
     },
     {
@@ -621,6 +633,7 @@
         "deliveryDate": "2023-03-22",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7",
         "wifi": false
     },
     {
@@ -634,6 +647,7 @@
         "deliveryDate": "2022-02-03",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7_Old",
         "wifi": false
     },
     {
@@ -647,6 +661,7 @@
         "deliveryDate": "2021-11-30",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7_Old",
         "wifi": false
     },
     {
@@ -660,6 +675,7 @@
         "deliveryDate": "2024-03-29",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7",
         "wifi": false
     },
     {
@@ -673,6 +689,7 @@
         "deliveryDate": "2024-08-01",
         "exitDate": null,
         "photoURL": null,
+        "seatMap": "AT7",
         "wifi": false
     }
 ]
