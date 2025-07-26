@@ -517,6 +517,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "DNG",
         "wifi": false
     },
     {
@@ -557,6 +558,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "A320",
         "wifi": false
     },
     {
@@ -571,6 +573,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "A320",
         "wifi": false
     },
     {
@@ -585,6 +588,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "A320",
         "wifi": false
     },
     {
@@ -599,6 +603,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -626,6 +631,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": false
     },
     {
@@ -653,6 +659,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -667,6 +674,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "A320",
         "wifi": false
     },
     {
@@ -681,6 +689,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "A320",
         "wifi": false
     },
     {
@@ -695,6 +704,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "A320",
         "wifi": false
     },
     {
@@ -722,6 +732,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -762,6 +773,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -789,6 +801,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "DNH",
         "wifi": false
     },
     {
@@ -803,6 +816,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -817,6 +831,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -831,6 +846,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -871,6 +887,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -885,6 +902,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -912,6 +930,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "DGA_DVZ",
         "wifi": false
     },
     {
@@ -926,6 +945,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -940,6 +960,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "A320",
         "wifi": false
     },
     {
@@ -954,6 +975,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "DGA_DVZ",
         "wifi": false
     },
     {
@@ -981,6 +1003,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "DGD_DGE",
         "wifi": false
     },
     {
@@ -995,6 +1018,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
+        "seatMap": "DGD_DGE",
         "wifi": false
     },
     {
@@ -1023,6 +1047,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -1037,6 +1062,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -1051,6 +1077,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -1065,6 +1092,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -1079,6 +1107,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -1093,6 +1122,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -1107,6 +1137,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -1121,6 +1152,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A320",
         "wifi": true
     },
     {
@@ -1135,6 +1167,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1152,6 +1185,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1169,6 +1203,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1184,6 +1219,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1201,6 +1237,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1216,6 +1253,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1233,6 +1271,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1250,6 +1289,7 @@
         "exitDate": null,
         "photoURL": "https://cdn.jetphotos.com/full/5/388454_1746886542.jpg",
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1265,6 +1305,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1280,6 +1321,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1295,6 +1337,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1310,6 +1353,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1327,6 +1371,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1344,6 +1389,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1359,6 +1405,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1374,6 +1421,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1389,6 +1437,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1406,6 +1455,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1421,6 +1471,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1436,6 +1487,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1453,6 +1505,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true,
         "isGrounded": true,
@@ -1470,6 +1523,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1485,6 +1539,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1500,6 +1555,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1515,6 +1571,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1530,6 +1587,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1545,6 +1603,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1560,6 +1619,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1575,6 +1635,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1590,6 +1651,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1605,6 +1667,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1620,6 +1683,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": true,
         "usbA": true
     },
@@ -1635,6 +1699,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": true,
         "usbA": true
     },
@@ -1650,6 +1715,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": false,
         "usbA": true
     },
@@ -1665,6 +1731,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A20N",
         "wifi": false,
         "usbA": true
     },
@@ -1680,6 +1747,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "seatMap": "A21N",
         "wifi": false,
         "usbA": true
     }
