@@ -23,14 +23,6 @@
             align-items: center;
         }
 
-        .app-icon {
-            width: 120px;
-            height: 120px;
-            margin-bottom: 20px;
-            border-radius: 20px;
-            object-fit: cover;
-        }
-
         .download-button {
             display: inline-block;
             padding: 15px 30px;
@@ -48,11 +40,31 @@
             background-color: #0056b3;
             transform: translateY(-2px);
         }
+
+        .app-icon {
+            width: 120px;
+            height: 120px;
+            margin-bottom: 20px;
+            border-radius: 20px;
+            background-image: url('icon.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+
+            /* Prevent selection or interaction */
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+
+            /* Prevent pointer interaction (e.g., press/hold) */
+            pointer-events: none;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <img src="Icon.png" alt="App Icon" class="app-icon">
+        <div class="app-icon"/>
         <a href="itms-services://?action=download-manifest&url=https://dimsar01.github.io/download-planes/manifest.plist" class="download-button">Download</a>
     </div>
 </body>
