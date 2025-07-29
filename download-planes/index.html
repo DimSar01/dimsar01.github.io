@@ -3,7 +3,6 @@
 <head>
     <title>Aegean Planes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="Icon.png">
     <style>
         body {
             margin: 0;
@@ -17,14 +16,20 @@
 
         .container {
             text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
 
-        img {
-            width: 120px; 
+        .app-icon {
+            width: 120px;
+            height: 120px;
             margin-bottom: 20px;
+            border-radius: 20px;
+            object-fit: cover;
         }
-        
-        a {
+
+        .download-button {
             display: inline-block;
             padding: 15px 30px;
             font-size: 18px;
@@ -36,7 +41,8 @@
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             transition: background-color 0.3s, transform 0.2s;
         }
-        a:hover {
+
+        .download-button:hover {
             background-color: #0056b3;
             transform: translateY(-2px);
         }
@@ -44,8 +50,8 @@
 </head>
 <body>
     <div class="container">
-        <img src="Icon.png" alt="App Icon">
-        <a href="itms-services://?action=download-manifest&url=https://dimsar01.github.io/download-planes/manifest.plist">Download</a>
+        <img src="icon.png" alt="App Icon" class="app-icon">
+        <a href="itms-services://?action=download-manifest&url=https://dimsar01.github.io/download-planes/manifest.plist" class="download-button">Download</a>
     </div>
 </body>
 </html>
