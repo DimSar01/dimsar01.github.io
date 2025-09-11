@@ -1355,7 +1355,9 @@
         "newLivery": true,
         "seatMap": "A21N",
         "wifi": true,
-        "usbA": true
+        "usbA": true,
+        "isGrounded": true,
+        "groundedSince": "2024-02-11"
     },
     {
         "msn": "A320-10901",
