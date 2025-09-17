@@ -1,0 +1,47 @@
+[
+    {
+        "fleetType": "current",
+        "model": "Airbus A220-100",
+        "number": "12"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A220-300",
+        "number": "14"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A319-100",
+        "number": "10"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A320-200",
+        "number": "17"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A320neo",
+        "number": "19"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A321neo",
+        "number": "7"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A330-200",
+        "number": "5"
+    },
+    {
+        "fleetType": "future",
+        "model": "Airbus A330-900neo",
+        "number": "11"
+    },
+    {
+        "fleetType": "current",
+        "model": "Airbus A350-900",
+        "number": "6"
+    }
+]
