@@ -285,7 +285,7 @@
         "satellite": true,
         "usbA": true,
         "usbC": true,
-		"isGrounded": "true",
+		"isGrounded": true,
 		"groundedSince": "2025-07-11"
     },
 	{
@@ -306,7 +306,7 @@
         "satellite": true,
         "usbA": true,
         "usbC": true,
-		"isGrounded": "true",
+		"isGrounded": true,
 		"groundedSince": "2025-06-09"
     },
 	{
@@ -346,7 +346,7 @@
         "satellite": true,
         "usbA": true,
         "usbC": true,
-		"isGrounded": "true",
+		"isGrounded": true,
 		"groundedSince": "2024-12-23"
     },
 	{
@@ -367,7 +367,7 @@
         "satellite": true,
         "usbA": true,
         "usbC": true,
-		"isGrounded": "true",
+		"isGrounded": true,
 		"groundedSince": "2025-05-13"
     },
 	{
@@ -388,7 +388,7 @@
         "satellite": true,
         "usbA": true,
         "usbC": true,
-		"isGrounded": "true",
+		"isGrounded": true,
 		"groundedSince": "2025-03-27"
     },
 	{
