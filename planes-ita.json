@@ -6,7 +6,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Fiona May"
+		"name": "Fiona May",
         "firstFlight": "2023-10-23",
         "deliveryDate": "2023-10-31",
         "exitDate": null,
@@ -25,7 +25,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Giuseppe Meazza"
+		"name": "Giuseppe Meazza",
         "firstFlight": "2023-12-02",
         "deliveryDate": "2023-12-11",
         "exitDate": null,
@@ -44,7 +44,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Gianluigi Buffon"
+		"name": "Gianluigi Buffon",
         "firstFlight": "2024-02-23",
         "deliveryDate": "2024-03-20",
         "exitDate": null,
@@ -65,7 +65,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Giovanna Trillini"
+		"name": "Giovanna Trillini",
         "firstFlight": "2024-04-19",
         "deliveryDate": "2024-05-03",
         "exitDate": null,
@@ -84,7 +84,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Kristian Ghedina"
+		"name": "Kristian Ghedina",
         "firstFlight": "2024-05-31",
         "deliveryDate": "2024-06-18",
         "exitDate": null,
@@ -103,7 +103,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Andrea Giani"
+		"name": "Andrea Giani",
         "firstFlight": "2024-06-22",
         "deliveryDate": "2024-06-28",
         "exitDate": null,
@@ -122,7 +122,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Andrea Bargnani"
+		"name": "Andrea Bargnani",
         "firstFlight": "2024-06-21",
         "deliveryDate": "2024-07-03",
         "exitDate": null,
@@ -141,7 +141,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Sara Anzanello"
+		"name": "Sara Anzanello",
         "firstFlight": "2024-09-24",
         "deliveryDate": "2024-10-04",
         "exitDate": null,
@@ -160,7 +160,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Dario Hubner"
+		"name": "Dario Hubner",
         "firstFlight": "2024-11-21",
         "deliveryDate": "2024-11-29",
         "exitDate": null,
@@ -179,7 +179,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Stefania Belmondo"
+		"name": "Stefania Belmondo",
         "firstFlight": "2024-12-13",
         "deliveryDate": "2024-12-20",
         "exitDate": null,
@@ -198,7 +198,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Igor Cassina"
+		"name": "Igor Cassina",
         "firstFlight": "2025-03-10",
         "deliveryDate": "2025-03-21",
         "exitDate": null,
@@ -217,7 +217,7 @@
         "manufacturer": "Airbus",
         "type": "A220-100 (BD-500-1A10)",
         "model": "A220-100",
-		"name": "Aldo Montano"
+		"name": "Aldo Montano",
         "firstFlight": "2025-04-04",
         "deliveryDate": "2025-04-16",
         "exitDate": null,
