@@ -1,2 +1,20 @@
 [
+     {
+            "msn": "A220-50068",
+            "registration": "EI-HLA",
+            "testRegistration": "C-FOWF",
+            "manufacturer": "Airbus",
+            "type": "A220-100 (BD-500-1A10)",
+            "model": "A220-100",
+            "firstFlight": "2023-10-23",
+            "deliveryDate": "2023-10-31",
+            "exitDate": null,
+            "photoURL": null,
+            "newLivery": true,
+            "seatMap": "A221",
+            "wifi": true,
+            "satellite": true,
+            "usbA": true,
+            "usbC": true
+    }
 ]
