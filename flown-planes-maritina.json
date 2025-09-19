@@ -1,19 +1,19 @@
 {
     "flownPlanes": [
-		"EI-DSV",
-		"EI-DTG",
-		"EI-EID",
-		"EI-EIE",
+    	"EI-DSV",
+    	"EI-DTG",
+    	"EI-EID",
+    	"EI-EIE",
         "EI-HHL",
         "EI-HHS",
-		"EI-HHW",
-		"EI-HJE",
-		"EI-HOB",
-		"EI-HOJ",
+    	"EI-HHW",
+    	"EI-HJE",
+    	"EI-HOB",
+    	"EI-HOJ",
         "EI-HXE",
-		"EI-HXG",
-		"EI-IKL",
+    	"EI-HXG",
+    	"EI-IKL",
         "EI-IMX",
-		"EI-INB"
+    	"EI-INB"
     ]
 }
