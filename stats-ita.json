@@ -43,5 +43,10 @@
         "fleetType": "current",
         "model": "Airbus A350-900",
         "number": "6"
+    },
+    {
+        "fleetType": "future",
+        "model": "Airbus A321neo",
+        "number": "2"
     }
 ]
