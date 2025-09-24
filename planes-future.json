@@ -33,7 +33,7 @@
         "type": "A321-271NX",
         "model": "A321neo",
         "firstFlight": "2025-09-11",
-        "deliveryDate": null,
+        "deliveryDate": "2025-09-26",
         "exitDate": null,
         "photoURL": "https://cdn.jetphotos.com/full/5/1211641_1757355530.jpg",
         "wifi": false
