@@ -1750,5 +1750,21 @@
         "seatMap": "A21N",
         "wifi": false,
         "usbA": true
+    },
+    {
+        "msn": "A320-12718",
+        "registration": "SX-NAR",
+        "testRegistration": "D-AVXI",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2025-09-11",
+        "deliveryDate": "2025-09-26",
+        "exitDate": null,
+        "photoURL": null,
+        "newLivery": true,
+        "seatMap": "A21N",
+        "wifi": false,
+        "usbA": true
     }
 ]
