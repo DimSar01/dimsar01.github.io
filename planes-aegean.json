@@ -603,7 +603,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
-        "seatMap": "A320",
+        "seatMap": "A320-2",
         "wifi": true
     },
     {
@@ -1003,7 +1003,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
-        "seatMap": "DGD_DGE",
+        "seatMap": "A320-2",
         "wifi": false
     },
     {
@@ -1018,7 +1018,7 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": false,
-        "seatMap": "DGD_DGE",
+        "seatMap": "A320-2",
         "wifi": false
     },
     {
