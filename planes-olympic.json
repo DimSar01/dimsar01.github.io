@@ -691,5 +691,19 @@
         "photoURL": null,
         "seatMap": "AT7",
         "wifi": false
+    },
+    {
+        "msn": "ATR7-1728",
+        "registration": "SX-OBU",
+        "testRegistration": "F-WWEE",
+        "manufacturer": "ATR",
+        "type": "72-212A",
+        "model": "72-600",
+        "firstFlight": "2025-09-23",
+        "deliveryDate": "2025-10-03",
+        "exitDate": null,
+        "photoURL": null,
+        "seatMap": "AT7",
+        "wifi": false
     }
 ]
