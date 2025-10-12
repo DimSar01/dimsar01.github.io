@@ -1767,7 +1767,9 @@
         "newLivery": true,
         "config": "CY220",
         "seatMap": "A21N",
-        "features": ["usbA"]
+        "features": [
+            "usbA"
+        ],
         "wifi": false,
         "usbA": true
     }
