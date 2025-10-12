@@ -1768,7 +1768,7 @@
         "config": "CY220"
         "seatMap": "A21N",
         "features": [
-            "usbA"
+            {"usbA"}
         ]
         "wifi": false,
         "usbA": true
