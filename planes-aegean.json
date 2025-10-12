@@ -1765,7 +1765,11 @@
         "exitDate": null,
         "photoURL": null,
         "newLivery": true,
+        "config": "CY220"
         "seatMap": "A21N",
+        "features": [
+            "usbA"
+        ]
         "wifi": false,
         "usbA": true
     }
