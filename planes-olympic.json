@@ -258,6 +258,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "DH1",
+        "features": [],
         "wifi": false
     },
     {
@@ -285,6 +286,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "DH1",
+        "features": [],
         "wifi": false
     },
     {
@@ -481,6 +483,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7_Old",
+        "features": [],
         "wifi": false
     },
     {
@@ -495,6 +498,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT4",
+        "features": [],
         "wifi": false
     },
     {
@@ -509,6 +513,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT4",
+        "features": [],
         "wifi": false
     },
     {
@@ -536,6 +541,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "OAX",
+        "features": [],
         "wifi": false
     },
     {
@@ -550,6 +556,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7_Old",
+        "features": [],
         "wifi": false
     },
     {
@@ -564,6 +571,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7_Old",
+        "features": [],
         "wifi": false
     },
     {
@@ -578,6 +586,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7_Old",
+        "features": [],
         "wifi": false,
         "isGrounded": true,
         "groundedSince": "2025-06-07"
@@ -594,6 +603,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7",
+        "features": [],
         "wifi": false
     },
     {
@@ -608,6 +618,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7",
+        "features": [],
         "wifi": false
     },
     {
@@ -622,6 +633,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7",
+        "features": [],
         "wifi": false
     },
     {
@@ -636,6 +648,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7",
+        "features": [],
         "wifi": false
     },
     {
@@ -650,6 +663,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7_Old",
+        "features": [],
         "wifi": false
     },
     {
@@ -664,6 +678,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7_Old",
+        "features": [],
         "wifi": false
     },
     {
@@ -678,6 +693,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7",
+        "features": [],
         "wifi": false
     },
     {
@@ -692,6 +708,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7",
+        "features": [],
         "wifi": false
     },
     {
@@ -706,6 +723,7 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7",
+        "features": [],
         "wifi": false
     }
 ]
