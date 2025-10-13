@@ -578,7 +578,9 @@
         "exitDate": null,
         "photoURL": null,
         "seatMap": "AT7_Old",
-        "wifi": false
+        "wifi": false,
+        "isGrounded": true,
+        "groundedSince": "2025-06-07"
     },
     {
         "msn": "ATR7-1053",
