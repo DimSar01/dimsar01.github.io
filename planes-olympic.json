@@ -1,4 +1,4 @@
-  [
+[
     {
         "msn": "A320-1727",
         "registration": "SX-OAN",
@@ -9,6 +9,7 @@
         "firstFlight": "2002-09-28",
         "deliveryDate": "2009-09-17",
         "exitDate": "2011-04",
+        "brokenUp": "2014",
         "photoURL": "https://cdn.jetphotos.com/full/4/95194_1348836428.jpg",
         "config": "CY138",
         "wifi": false
@@ -37,6 +38,7 @@
         "firstFlight": "2007-05-25",
         "deliveryDate": "2009-09-18",
         "exitDate": "2010-04-07",
+        "brokenUp": "2025",
         "photoURL": "https://cdn.jetphotos.com/full/2/98829_1262432780.jpg",
         "config": "CY138",
         "wifi": false
@@ -149,6 +151,7 @@
         "firstFlight": "2009-05-08",
         "deliveryDate": "2009-06-30",
         "exitDate": "2013-08-18",
+        "brokenUp": "2019-12",
         "photoURL": "https://cdn.jetphotos.com/full/5/83053_1488927357.jpg",
         "config": "CY138",
         "wifi": false
