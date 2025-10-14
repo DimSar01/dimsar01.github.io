@@ -91,6 +91,7 @@
         "firstFlight": "1991-03-01",
         "deliveryDate": "2001-10-28",
         "exitDate": "2005-04-22",
+        "brokenUp": "2024-11-01",
         "photoURL": "https://cdn.jetphotos.com/full/1/44754_1134338278.jpg",
         "config": "CY136",
         "wifi": false
@@ -105,6 +106,7 @@
         "firstFlight": "1992-01-16",
         "deliveryDate": "2001-10-28",
         "exitDate": "2010-05-04",
+        "brokenUp": "2021-03",
         "photoURL": "https://cdn.jetphotos.com/full/2/63201_1234044225.jpg",
         "config": "CY136",
         "wifi": false
@@ -183,6 +185,7 @@
         "firstFlight": "1988-09-09",
         "deliveryDate": "2001-10-28",
         "exitDate": "2009-09-18",
+        "brokenUp": "2006",
         "photoURL": "https://cdn.jetphotos.com/full/6/74813_1441998357.jpg",
         "wifi": false
     },
@@ -393,6 +396,7 @@
         "firstFlight": "1997-09-04",
         "deliveryDate": "2011-06-04",
         "exitDate": "2011-10-03",
+        "brokenUp": "2013",
         "photoURL": "https://cdn.jetphotos.com/full/6/30715_1487708946.jpg",
         "config": "CY180",
         "wifi": false
@@ -407,6 +411,7 @@
         "firstFlight": "2001-01-23",
         "deliveryDate": "2015-05-27",
         "exitDate": "2020-02-19",
+        "brokenUp": "2021-04",
         "photoURL": "https://cdn.jetphotos.com/full/5/17208_1589745363.jpg",
         "config": "CY206",
         "wifi": false
@@ -421,6 +426,7 @@
         "firstFlight": "2001-01-31",
         "deliveryDate": "2015-03-16",
         "exitDate": "2024-10-21",
+        "brokenUp": "2025-02",
         "photoURL": "https://cdn.jetphotos.com/full/5/1197113_1726043753.jpg",
         "config": "CY206",
         "wifi": false
@@ -435,6 +441,7 @@
         "firstFlight": "2002-09-28",
         "deliveryDate": "2011-04",
         "exitDate": "2013-04-01",
+        "brokenUp": "2014",
         "photoURL": "https://cdn.jetphotos.com/full/4/62454_1361570601.jpg",
         "config": "CY138",
         "wifi": false
@@ -449,6 +456,7 @@
         "firstFlight": "2002-07-25",
         "deliveryDate": "2015-06-24",
         "exitDate": "2020-02-23",
+        "brokenUp": "2022-10",
         "photoURL": "https://cdn.jetphotos.com/full/5/69576_1606206063.jpg",
         "config": "CY174",
         "wifi": false
@@ -477,6 +485,7 @@
         "firstFlight": "2002-11-21",
         "deliveryDate": "2015-04-28",
         "exitDate": "2017-06",
+        "brokenUp": "2022-03",
         "photoURL": "https://cdn.jetphotos.com/full/6/71281_1588962067.jpg",
         "config": "CY168",
         "wifi": false
@@ -491,6 +500,7 @@
         "firstFlight": "2003-03-25",
         "deliveryDate": "2015-05-22",
         "exitDate": "2020-07-05",
+        "brokenUp": "2023-03",
         "photoURL": "https://cdn.jetphotos.com/full/5/29059_1634711314.jpg",
         "config": "CY174",
         "wifi": false
@@ -519,6 +529,7 @@
         "firstFlight": "2005-05-13",
         "deliveryDate": "2011-04-27",
         "exitDate": "2023-01-21",
+        "brokenUp": "2023-08",
         "photoURL": "https://cdn.jetphotos.com/full/5/97628_1662274186.jpg",
         "config": "CY144",
         "wifi": false
