@@ -15,6 +15,13 @@
         "EI-HXG",
         "EI-IKL",
         "EI-IMX",
-        "EI-INB"
+        "EI-INB",
+        "SX-DGJ",
+        "SX-DVM",
+        "SX-NAK",
+        "SX-NAP",
+        "SX-NAQ",
+        "SX-NEB",
+        "SX-NET"
     ]
 }
