@@ -11,8 +11,7 @@
         "exitDate": "2011-04",
         "brokenUp": "2014",
         "photoURL": "https://cdn.jetphotos.com/full/4/95194_1348836428.jpg",
-        "config": "CY138",
-        "wifi": false
+        "config": "CY138"
     },
     {
         "msn": "A320-1880",
@@ -25,8 +24,7 @@
         "deliveryDate": "2009-09-22",
         "exitDate": "2011-04-21",
         "photoURL": "https://cdn.jetphotos.com/full/1/32911_1288994001.jpg",
-        "config": "CY138",
-        "wifi": false
+        "config": "CY138"
     },
     {
         "msn": "A320-3142",
@@ -40,8 +38,7 @@
         "exitDate": "2010-04-07",
         "brokenUp": "2025",
         "photoURL": "https://cdn.jetphotos.com/full/2/98829_1262432780.jpg",
-        "config": "CY138",
-        "wifi": false
+        "config": "CY138"
     },
     {
         "msn": "A320-3162",
@@ -54,8 +51,7 @@
         "deliveryDate": "2009-09-25",
         "exitDate": "2011-05",
         "photoURL": "https://cdn.jetphotos.com/full/2/13884_1270546300.jpg",
-        "config": "CY162",
-        "wifi": false
+        "config": "CY162"
     },
     {
         "msn": "A320-3252",
@@ -68,8 +64,7 @@
         "deliveryDate": "2009-09-25",
         "exitDate": "2010-12-02",
         "photoURL": "https://cdn.jetphotos.com/full/1/17996_1278773128.jpg",
-        "config": "CY138",
-        "wifi": false
+        "config": "CY138"
     },
     {
         "msn": "A320-3316",
@@ -82,8 +77,7 @@
         "deliveryDate": "2009-09-24",
         "exitDate": "2012-11-23",
         "photoURL": "https://cdn.jetphotos.com/full/6/31450_1408622100.jpg",
-        "config": "CY162",
-        "wifi": false
+        "config": "CY162"
     },
     {
         "msn": "A320-3317",
@@ -96,8 +90,7 @@
         "deliveryDate": "2009-09-25",
         "exitDate": "2010-11-26",
         "photoURL": "https://cdn.jetphotos.com/full/1/33945_1295187028.jpg",
-        "config": "CY138",
-        "wifi": false
+        "config": "CY138"
     },
     {
         "msn": "A320-3748",
@@ -110,8 +103,7 @@
         "deliveryDate": "2009-08-26",
         "exitDate": "2013-04-27",
         "photoURL": "https://cdn.jetphotos.com/full/4/57684_1359209309.jpg",
-        "config": "CY162",
-        "wifi": false
+        "config": "CY162"
     },
     {
         "msn": "A320-3812",
@@ -124,8 +116,7 @@
         "deliveryDate": "2009-08-25",
         "exitDate": "2013-05-02",
         "photoURL": "https://cdn.jetphotos.com/full/3/75924_1393832920.jpg",
-        "config": "CY162",
-        "wifi": false
+        "config": "CY162"
     },
     {
         "msn": "A320-3895",
@@ -138,8 +129,7 @@
         "deliveryDate": "2009-07-07",
         "exitDate": "2014-05",
         "photoURL": "https://cdn.jetphotos.com/full/5/26873_1468871262.jpg",
-        "config": "CY138",
-        "wifi": false
+        "config": "CY138"
     },
     {
         "msn": "A320-3905",
@@ -153,8 +143,7 @@
         "exitDate": "2013-08-18",
         "brokenUp": "2019-12",
         "photoURL": "https://cdn.jetphotos.com/full/5/83053_1488927357.jpg",
-        "config": "CY138",
-        "wifi": false
+        "config": "CY138"
     },
     {
         "msn": "A320-3950",
@@ -167,8 +156,7 @@
         "deliveryDate": "2009-07-08",
         "exitDate": "2012-07-31",
         "photoURL": "https://cdn.jetphotos.com/full/4/10396_1357584142.jpg",
-        "config": "CY138",
-        "wifi": false
+        "config": "CY138"
     },
     {
         "msn": "A320-3990",
@@ -181,8 +169,7 @@
         "deliveryDate": "2009-10-06",
         "exitDate": "2011-04",
         "photoURL": "https://cdn.jetphotos.com/full/2/79623_1289456340.jpg",
-        "config": "CY162",
-        "wifi": false
+        "config": "CY162"
     },
     {
         "msn": "A320-4065",
@@ -195,8 +182,7 @@
         "deliveryDate": "2009-10-20",
         "exitDate": "2011-03-22",
         "photoURL": "https://cdn.jetphotos.com/full/1/42156_1309190727.jpg",
-        "config": "CY162",
-        "wifi": false
+        "config": "CY162"
     },
     {
         "msn": "A320-4094",
@@ -209,8 +195,7 @@
         "deliveryDate": "2009-11-12",
         "exitDate": "2011-03-17",
         "photoURL": "https://cdn.jetphotos.com/full/4/25753_1357588052.jpg",
-        "config": "CY162",
-        "wifi": false
+        "config": "CY162"
     },
     {
         "msn": "A320-4190",
@@ -223,8 +208,7 @@
         "deliveryDate": "2010-02-05",
         "exitDate": "2012-10-07",
         "photoURL": "https://cdn.jetphotos.com/full/6/53705_1612695952.jpg",
-        "config": "C12Y138",
-        "wifi": false
+        "config": "C12Y138"
     },
     {
         "msn": "A320-4193",
@@ -237,8 +221,7 @@
         "deliveryDate": "2010-02-03",
         "exitDate": "2012-11-02",
         "photoURL": "https://cdn.jetphotos.com/full/5/98530_1418158151.jpg",
-        "config": "C12Y138",
-        "wifi": false
+        "config": "C12Y138"
     },
     {
         "msn": "Dash-289",
@@ -251,8 +234,7 @@
         "deliveryDate": "2009-09-18",
         "exitDate": "2012-11-10",
         "photoURL": "https://cdn.jetphotos.com/full/3/33561_1348004682.jpg",
-        "config": "Y37",
-        "wifi": false
+        "config": "Y37"
     },
     {
         "msn": "Dash-330",
@@ -265,8 +247,7 @@
         "deliveryDate": "2009-09-29",
         "exitDate": "2017-11-29",
         "photoURL": "https://cdn.jetphotos.com/full/6/72309_1495733609.jpg",
-        "config": "Y37",
-        "wifi": false
+        "config": "Y37"
     },
     {
         "msn": "Dash-347",
@@ -281,8 +262,7 @@
         "photoURL": null,
         "config": "Y37",
         "seatMap": "DH1",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "Dash-361",
@@ -295,8 +275,7 @@
         "deliveryDate": "2009-09-27",
         "exitDate": "2017-08-24",
         "photoURL": "https://cdn.jetphotos.com/full/5/91593_1491854994.jpg",
-        "config": "Y37",
-        "wifi": false
+        "config": "Y37"
     },
     {
         "msn": "Dash-364",
@@ -311,8 +290,7 @@
         "photoURL": null,
         "config": "Y37",
         "seatMap": "DH1",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "Dash-4148",
@@ -325,8 +303,7 @@
         "deliveryDate": "2009-09-24",
         "exitDate": "2016-09-25",
         "photoURL": "https://cdn.jetphotos.com/full/5/52481_1573242929.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4152",
@@ -339,8 +316,7 @@
         "deliveryDate": "2009-09-14",
         "exitDate": "2016-09-24",
         "photoURL": "https://cdn.jetphotos.com/full/6/47437_1475864711.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4212",
@@ -353,8 +329,7 @@
         "deliveryDate": "2009-08-01",
         "exitDate": "2010-06-24",
         "photoURL": "https://cdn.jetphotos.com/full/1/60431_1267453976.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4216",
@@ -367,8 +342,7 @@
         "deliveryDate": "2009-09-30",
         "exitDate": "2010-08-03",
         "photoURL": "https://cdn.jetphotos.com/full/1/92699_1255939874.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4259",
@@ -381,8 +355,7 @@
         "deliveryDate": "2009-08-16",
         "exitDate": "2010-10-31",
         "photoURL": "https://cdn.jetphotos.com/full/1/24660_1250456306.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4261",
@@ -395,8 +368,7 @@
         "deliveryDate": "2009-10-14",
         "exitDate": "2010-10-31",
         "photoURL": "https://cdn.jetphotos.com/full/1/27391_1260119067.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4267",
@@ -409,8 +381,7 @@
         "deliveryDate": "2009-08-23",
         "exitDate": "2022-08-17",
         "photoURL": "hhttps://cdn.jetphotos.com/full/5/24320_1642970225.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4268",
@@ -423,8 +394,7 @@
         "deliveryDate": "2009-09-09",
         "exitDate": "2022-09-10",
         "photoURL": "https://cdn.jetphotos.com/full/5/30998_1628544168.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4276",
@@ -437,8 +407,7 @@
         "deliveryDate": "2009-11-07",
         "exitDate": "2022-05-08",
         "photoURL": "https://cdn.jetphotos.com/full/6/531492_1736527282.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4311",
@@ -451,8 +420,7 @@
         "deliveryDate": "2010-05-29",
         "exitDate": "2022-02-03",
         "photoURL": "https://cdn.jetphotos.com/full/6/82584_1624014920.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4314",
@@ -465,8 +433,7 @@
         "deliveryDate": "2010-06-14",
         "exitDate": "2021-11-04",
         "photoURL": "https://cdn.jetphotos.com/full/6/97461_1608370706.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4318",
@@ -479,8 +446,7 @@
         "deliveryDate": "2010-07-20",
         "exitDate": "2022-02-10",
         "photoURL": "https://cdn.jetphotos.com/full/6/50779_1609782344.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4321",
@@ -493,8 +459,7 @@
         "deliveryDate": "2010-12-11",
         "exitDate": "2022-06-12",
         "photoURL": "https://cdn.jetphotos.com/full/5/35627_1610841432.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "Dash-4327",
@@ -507,8 +472,7 @@
         "deliveryDate": "2010-12-01",
         "exitDate": "2022-06-14",
         "photoURL": "https://cdn.jetphotos.com/full/6/79071_1634546951.jpg",
-        "config": "Y78",
-        "wifi": false
+        "config": "Y78"
     },
     {
         "msn": "ATR7-996",
@@ -523,8 +487,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7_Old",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1002",
@@ -539,8 +502,7 @@
         "photoURL": null,
         "config": "Y46",
         "seatMap": "AT4",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1005",
@@ -555,8 +517,7 @@
         "photoURL": null,
         "config": "Y46",
         "seatMap": "AT4",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1011",
@@ -569,8 +530,7 @@
         "deliveryDate": "2016-07-30",
         "exitDate": "2021-09-20",
         "photoURL": "https://cdn.jetphotos.com/full/5/27121_1595542461.jpg",
-        "config": "Y48",
-        "wifi": false
+        "config": "Y48"
     },
     {
         "msn": "ATR7-1016",
@@ -585,8 +545,7 @@
         "photoURL": null,
         "config": "Y48",
         "seatMap": "OAX",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1020",
@@ -601,8 +560,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7_Old",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1027",
@@ -617,8 +575,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7_Old",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1033",
@@ -634,8 +591,6 @@
         "config": "Y72",
         "seatMap": "AT7_Old",
         "features": [],
-        "wifi": false,
-        "isGrounded": true,
         "groundedSince": "2025-06-07"
     },
     {
@@ -651,8 +606,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1058",
@@ -667,8 +621,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1073",
@@ -683,8 +636,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1129",
@@ -699,8 +651,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1295",
@@ -715,8 +666,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7_Old",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1325",
@@ -731,8 +681,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7_Old",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1693",
@@ -747,8 +696,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1699",
@@ -763,8 +711,7 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7",
-        "features": [],
-        "wifi": false
+        "features": []
     },
     {
         "msn": "ATR7-1728",
@@ -779,7 +726,6 @@
         "photoURL": null,
         "config": "Y72",
         "seatMap": "AT7",
-        "features": [],
-        "wifi": false
+        "features": []
     }
 ]
