@@ -9,8 +9,7 @@
         "firstFlight": "2025-05-23",
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": "https://cdn.plnspttrs.net/37957/d-azys-aegean-airlines-airbus-a321-271ny-xlr_PlanespottersNet_1823246_f131b1ea04_o.jpg",
-        "wifi": false
+        "photoURL": "https://cdn.plnspttrs.net/37957/d-azys-aegean-airlines-airbus-a321-271ny-xlr_PlanespottersNet_1823246_f131b1ea04_o.jpg"
     },
     {
         "msn": "A320-12606",
@@ -22,8 +21,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null,
-        "wifi": false
+        "photoURL": null
     },
     {
         "msn": "A320-12746",
@@ -35,8 +33,7 @@
         "firstFlight": "2025-09-19",
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": "https://live.staticflickr.com/65535/54782107046_4d39bf979a_k.jpg",
-        "wifi": false
+        "photoURL": "https://live.staticflickr.com/65535/54782107046_4d39bf979a_k.jpg"
     },
     {
         "msn": "A320-13007",
@@ -48,8 +45,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null,
-        "wifi": false
+        "photoURL": null
     },
     {
         "msn": "A320-13120",
@@ -61,8 +57,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null,
-        "wifi": false
+        "photoURL": null
     },
     {
         "msn": "A320-13198",
@@ -74,7 +69,6 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null,
-        "wifi": false
+        "photoURL": null
     }
 ]
