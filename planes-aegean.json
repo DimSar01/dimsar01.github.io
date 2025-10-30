@@ -1961,5 +1961,23 @@
         "features": ["usbA"],
         "wifi": false,
         "usbA": true
+    },
+    {
+        "msn": "A320-12746",
+        "registration": "SX-NAS",
+        "testRegistration": "D-AVYN",
+        "manufacturer": "Airbus",
+        "type": "A321-271NX",
+        "model": "A321neo",
+        "firstFlight": "2025-09-19",
+        "deliveryDate": "2025-10-30",
+        "exitDate": null,
+        "photoURL": null,
+        "newLivery": true,
+        "config": "CY220",
+        "seatMap": "A21N",
+        "features": ["usbA"],
+        "wifi": false,
+        "usbA": true
     }
 ]
