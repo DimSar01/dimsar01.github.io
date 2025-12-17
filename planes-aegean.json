@@ -681,12 +681,9 @@
         "model": "A320-200",
         "firstFlight": "2008-01-21",
         "deliveryDate": "2008-02-12",
-        "exitDate": null,
+        "exitDate": "2025-09-17",
         "photoURL": null,
-        "newLivery": false,
-        "config": "CY174",
-        "seatMap": "A320",
-        "features": []
+        "config": "CY174"
     },
     {
         "msn": "A320-3423",
