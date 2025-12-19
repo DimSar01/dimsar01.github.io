@@ -24,18 +24,6 @@
         "photoURL": null
     },
 	{
-        "msn": "A330-2110",
-        "registration": "EI-TYE",
-        "testRegistration": "F-WWYN",
-        "manufacturer": "Airbus",
-        "type": "A330-941",
-        "model": "A330-900neo",
-        "firstFlight": null,
-        "deliveryDate": null,
-        "exitDate": null,
-        "photoURL": "https://live.staticflickr.com/65535/54634185433_1c933bd908_h.jpg"
-    },
-	{
         "msn": "A330-2113",
         "registration": "EI-TYF",
         "testRegistration": "F-WWCU",
