@@ -505,6 +505,42 @@
         "usbC": true
     },
 	{
+        "msn": "A220-55397",
+        "registration": "EI-TEA",
+        "testRegistration": "C-FOVD",
+        "manufacturer": "Airbus",
+        "type": "A220-300 (BD-500-1A11)",
+        "model": "A220-300",
+        "firstFlight": "2025-11-15",
+        "deliveryDate": "2025-11-26",
+        "exitDate": null,
+        "photoURL": null,
+        "newLivery": true,
+        "seatMap": "ITA-A223",
+        "wifi": true,
+        "satellite": true,
+        "usbA": true,
+        "usbC": true
+    },
+	{
+        "msn": "A220-55407",
+        "registration": "EI-TEB",
+        "testRegistration": "C-FPAI",
+        "manufacturer": "Airbus",
+        "type": "A220-300 (BD-500-1A11)",
+        "model": "A220-300",
+        "firstFlight": "2025-12-03",
+        "deliveryDate": "2025-12-13",
+        "exitDate": null,
+        "photoURL": null,
+        "newLivery": true,
+        "seatMap": "ITA-A223",
+        "wifi": true,
+        "satellite": true,
+        "usbA": true,
+        "usbC": true
+    }
+	{
         "msn": "A320-951",
         "registration": "I-BIKA",
         "testRegistration": "F-WWBT",
@@ -1812,15 +1848,8 @@
 		"name": "Juri Chechi",
         "firstFlight": "2012-04-11",
         "deliveryDate": "2021-10-15",
-        "exitDate": null,
-        "photoURL": null,
-        "newLivery": true,
-        "seatMap": "ITA-A332",
-        "wifi": true,
-        "satellite": true,
-        "usbA": true,
-		"power": true,
-        "ife": true
+        "exitDate": "2025-10-24",
+        "photoURL": null
     },
 	{
         "msn": "A330-1327",
@@ -1832,15 +1861,8 @@
 		"name": "Francesco Totti",
         "firstFlight": "2012-06-20",
         "deliveryDate": "2021-10-15",
-        "exitDate": null,
-        "photoURL": null,
-        "newLivery": true,
-        "seatMap": "ITA-A332",
-        "wifi": true,
-        "satellite": true,
-        "usbA": true,
-		"power": true,
-        "ife": true
+        "exitDate": "2025-10-01",
+        "photoURL": null
     },
 	{
         "msn": "A330-1354",
