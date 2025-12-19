@@ -539,7 +539,7 @@
         "satellite": true,
         "usbA": true,
         "usbC": true
-    }
+    },
 	{
         "msn": "A320-951",
         "registration": "I-BIKA",
@@ -2123,7 +2123,7 @@
         "type": "A330-941",
         "model": "A330-900neo",
         "firstFlight": "2025-11-04",
-        "deliveryDate": "2025-11"26",
+        "deliveryDate": "2025-11-26",
         "exitDate": null,
         "photoURL": null,
 		"newLivery": true,
