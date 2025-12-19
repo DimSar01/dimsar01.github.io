@@ -2094,6 +2094,26 @@
         "ife": true
     },
 	{
+        "msn": "A330-2110",
+        "registration": "I-ITYE",
+        "testRegistration": "F-WWYN",
+        "manufacturer": "Airbus",
+        "type": "A330-941",
+        "model": "A330-900neo",
+        "firstFlight": "2025-11-04",
+        "deliveryDate": "2025-11"26",
+        "exitDate": null,
+        "photoURL": null,
+		"newLivery": true,
+        "seatMap": "ITA-A339",
+        "wifi": true,
+        "satellite": true,
+        "usbA": true,
+		"usbC": true,
+		"power": true,
+        "ife": true
+    },
+	{
         "msn": "A350-270",
         "registration": "EI-IFB",
         "testRegistration": "F-WZFT",
