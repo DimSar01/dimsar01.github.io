@@ -1,8 +1,20 @@
 [
     {
+        "msn": "A220-55413",
+        "registration": "EI-TEC",
+        "testRegistration": "C-FOVH",
+        "manufacturer": "Airbus",
+        "type": "A220-300 (BD-500-1A11)",
+        "model": "A220-30",
+        "firstFlight": "2025-12-12",
+        "deliveryDate": null,
+        "exitDate": null,
+        "photoURL": null
+    },
+	{
         "msn": "A320-12949",
         "registration": "EI-HXH",
-        "testRegistration": "D-A???",
+        "testRegistration": "D-AYAY",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -14,7 +26,7 @@
 	{
         "msn": "A320-13121",
         "registration": "EI-HXI",
-        "testRegistration": "D-A???",
+        "testRegistration": "D-AZYZ",
         "manufacturer": "Airbus",
         "type": "A321-271NX",
         "model": "A321neo",
@@ -25,7 +37,7 @@
     },
 	{
         "msn": "A330-2113",
-        "registration": "EI-TYF",
+        "registration": "I-ITYF",
         "testRegistration": "F-WWCU",
         "manufacturer": "Airbus",
         "type": "A330-941",
