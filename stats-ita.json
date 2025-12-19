@@ -46,6 +46,11 @@
     },
     {
         "fleetType": "future",
+        "model": "Airbus A220-300",
+        "number": "1"
+    },
+    {
+        "fleetType": "future",
         "model": "Airbus A321neo",
         "number": "2"
     },
