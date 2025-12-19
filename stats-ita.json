@@ -7,7 +7,7 @@
     {
         "fleetType": "current",
         "model": "Airbus A220-300",
-        "number": "14"
+        "number": "16"
     },
     {
         "fleetType": "current",
@@ -32,12 +32,12 @@
     {
         "fleetType": "current",
         "model": "Airbus A330-200",
-        "number": "5"
+        "number": "3"
     },
     {
         "fleetType": "current",
         "model": "Airbus A330-900neo",
-        "number": "11"
+        "number": "12"
     },
     {
         "fleetType": "current",
@@ -48,5 +48,10 @@
         "fleetType": "future",
         "model": "Airbus A321neo",
         "number": "2"
+    },
+    {
+        "fleetType": "future",
+        "model": "Airbus A350-900",
+        "number": "5"
     }
 ]
