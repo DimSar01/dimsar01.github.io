@@ -52,8 +52,22 @@
         "name": "City of Knossos",
         "firstFlight": "1966-06-14",
         "deliveryDate": "1966-06-18",
-        "exitDate": null,
+        "exitDate": "1991-01",
         "photoURL": "https://www.airticketshistory.com/WEB/FLEET/OLYMPIC%20AIRWAYS%20B-707%20SX-DBC.jpg"
+    },
+    {
+        "msn": "Boei-19164",
+        "fleetType": "narrow",
+        "registration": "SX-DBO",
+        "testRegistration": "Unknown",
+        "manufacturer": "Boeing",
+        "type": "707-384C",
+        "model": "707-320",
+        "name": "City of Lindos",
+        "firstFlight": "1966-06-18",
+        "deliveryDate": "1973-03-23",
+        "exitDate": "1989-10-06",
+        "photoURL": "https://www.airhistory.net/photos/0257388.jpg"
     },
     {
         "msn": "Boei-19760",
@@ -66,7 +80,7 @@
         "name": "City of Sparta",
         "firstFlight": "1968-05-21",
         "deliveryDate": "1968-06-05",
-        "exitDate": null,
+        "exitDate": "1991-10",
         "photoURL": "https://www.airticketshistory.com/WEB/FLEET/OLYMPIC%20AIRWAYS%20B-707%20SX-DBD.jpg"
     },
     {
@@ -179,7 +193,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null
+        "photoURL": "https://scontent.fskg1-2.fna.fbcdn.net/v/t39.30808-6/481567639_9110797792290493_6892618288501415013_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5Pqha3Iia-kQ7kNvwFvlnVo&_nc_oc=AdmInb-9SX4WZuLnjrkxYFnHmGjBBr8bajFvAzgXMawNmc23JO-069_Z0SHmjHjvE1Ko0g-DyEXp5ebMhA19zrca&_nc_zt=23&_nc_ht=scontent.fskg1-2.fna&_nc_gid=e00ZQjUKbDhLOPnt5MRJsg&oh=00_Afp4wkiKyvUE_qyNxGP4qbXPFvtXOjr0iMmb_uNmyuwH_w&oe=695EE7BA"
     },
     {
         "msn": "Doug-Unknown",
@@ -207,7 +221,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null
+        "photoURL": "https://www.airhistory.net/photos/0283971.jpg"
     },
     {
         "msn": "Doug-Unknown",
@@ -249,7 +263,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null
+        "photoURL": "https://scontent.fskg1-2.fna.fbcdn.net/v/t39.30808-6/489957929_9416736545089274_5885920984331939205_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=9ftjZVJRXfoQ7kNvwEYMPeD&_nc_oc=AdkxvG4yXaXEMjRKsV1AeYsXmfQ7zpikvsQhscyNLdke2QTBg97XasT3mGJ6fd99dKckZZT4q5QyngSFvzLD1cup&_nc_zt=23&_nc_ht=scontent.fskg1-2.fna&_nc_gid=3m2NYrYBR_Mo4EcnCVa8HQ&oh=00_Afrul-ijVtwzlw0aWIVmk1jFm2PRZsHCGYqJox0KiPC2jg&oe=695EE622"
     },
     {
         "msn": "Doug-Unknown",
@@ -263,7 +277,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null
+        "photoURL": "https://i.pinimg.com/736x/bc/1c/e2/bc1ce258ebba34d4aa241c37cfcd9274.jpg"
     },
     {
         "msn": "Doug-Unknown",
@@ -277,7 +291,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null
+        "photoURL": "https://i.pinimg.com/736x/fb/6b/dc/fb6bdc2c6913fd69c264651cf7a0404d.jpg"
     },
     {
         "msn": "Doug-Unknown",
