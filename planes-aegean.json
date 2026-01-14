@@ -1611,7 +1611,8 @@
         "newLivery": true,
         "config": "CY180",
         "seatMap": "A20N",
-        "features": ["wifi", "usbA"]
+        "features": ["wifi", "usbA"],
+        "groundedSince": "2025-11-10"
     },
     {
         "msn": "A320-11474",
