@@ -1740,7 +1740,7 @@
         "newLivery": true,
         "config": "CY180",
         "seatMap": "A20N",
-        "features": ["usbA"]
+        "features": ["wifi", "usbA"]
     },
     {
         "msn": "A320-12449",
@@ -1756,7 +1756,7 @@
         "newLivery": true,
         "config": "CY180",
         "seatMap": "A20N",
-        "features": ["usbA"]
+        "features": ["wifi", "usbA"]
     },
     {
         "msn": "A320-12621",
