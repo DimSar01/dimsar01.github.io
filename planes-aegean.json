@@ -1773,7 +1773,7 @@
         "newLivery": true,
         "config": "CY220",
         "seatMap": "A21N",
-        "features": ["usbA"]
+        "features": ["wifi", "usbA"]
     },
     {
         "msn": "A320-12718",
