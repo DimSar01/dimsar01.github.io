@@ -1,16 +1,4 @@
 [
-    {
-        "msn": "A220-55413",
-        "registration": "EI-TEC",
-        "testRegistration": "C-FOVH",
-        "manufacturer": "Airbus",
-        "type": "A220-300 (BD-500-1A11)",
-        "model": "A220-300",
-        "firstFlight": "2025-12-12",
-        "deliveryDate": null,
-        "exitDate": null,
-        "photoURL": null
-    },
 	{
         "msn": "A320-12949",
         "registration": "EI-HXH",
@@ -21,7 +9,7 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null
+        "photoURL": "https://cdn.plnspttrs.net/31339/d-ayay-ita-airways-airbus-a321-271nx_PlanespottersNet_1879575_0c415edbab_o.jpg"
     },
 	{
         "msn": "A320-13121",
@@ -33,35 +21,11 @@
         "firstFlight": null,
         "deliveryDate": null,
         "exitDate": null,
-        "photoURL": null
-    },
-	{
-        "msn": "A330-2113",
-        "registration": "I-ITYF",
-        "testRegistration": "F-WWCU",
-        "manufacturer": "Airbus",
-        "type": "A330-941",
-        "model": "A330-900neo",
-        "firstFlight": null,
-        "deliveryDate": null,
-        "exitDate": null,
-        "photoURL": "https://live.staticflickr.com/65535/54664323792_ec81c5548b_h.jpg"
-    },
-	{
-        "msn": "A330-2117",
-        "registration": "EI-TYG",
-        "testRegistration": "F-WWYA",
-        "manufacturer": "Airbus",
-        "type": "A330-941",
-        "model": "A330-900neo",
-        "firstFlight": null,
-        "deliveryDate": null,
-        "exitDate": null,
-        "photoURL": "https://live.staticflickr.com/65535/54738908067_2f9071a68c_h.jpg"
+        "photoURL": "https://cdn.plnspttrs.net/17832/d-azyz-ita-airways-airbus-a321-271nx_PlanespottersNet_1876795_59e36eeae7_o.jpg"
     },
 	{
         "msn": "A330-2120",
-        "registration": "",
+        "registration": "EI-TYH",
         "testRegistration": "F-WWYU",
         "manufacturer": "Airbus",
         "type": "A330-941",
@@ -73,7 +37,7 @@
     },
 	{
         "msn": "A330-2123",
-        "registration": "",
+        "registration": "I-ITYI",
         "testRegistration": "F-WWCD",
         "manufacturer": "Airbus",
         "type": "A330-941",
@@ -85,7 +49,7 @@
     },
 	{
         "msn": "A330-2131",
-        "registration": "",
+        "registration": "I-ITYJ",
         "testRegistration": "F-WWCN",
         "manufacturer": "Airbus",
         "type": "A330-941",
